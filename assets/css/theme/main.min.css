@@ -30696,3 +30696,52 @@ option {
     background-color: #131313;
     color: #fff
 }
+
+/* Custom css Code here */
+
+/* Unique class names to prevent conflicts */
+.brand-slider-container {
+    position: relative;
+    overflow: hidden;
+    /* background-color: #fff; */
+}
+
+.brand-slider-wrapper {
+    position: relative;
+    background-color: #FFC800; 
+    padding: 10px 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.brand-slider {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    animation: move-slider 10s linear infinite; 
+    white-space: nowrap;
+    width: 100%;
+}
+
+.brand-item {
+    display: inline-block;
+    flex: 0 0 auto;
+}
+
+.brand-item img {
+    display: block;
+    height: 50px; 
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes move-slider {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
