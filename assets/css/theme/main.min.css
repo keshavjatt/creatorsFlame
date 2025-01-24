@@ -30745,3 +30745,21 @@ option {
         transform: translateX(-100%);
     }
 }
+
+
+.fixed-height-scroll {
+    max-height: 400px; /* Adjust height as needed */
+    overflow-y: auto;
+    position: relative;
+}
+
+.video-container-scroll {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Space between videos */
+}
+
+.video-container-scroll video {
+    height: 200px; /* Fixed video height */
+    object-fit: cover;
+}
