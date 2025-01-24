@@ -30697,9 +30697,7 @@ option {
     color: #fff
 }
 
-/* Custom css Code here */
-
-/* Unique class names to prevent conflicts */
+/* BRAND CSS CODE HERE  */
 .brand-slider-container {
     position: relative;
     overflow: hidden;
@@ -30747,19 +30745,49 @@ option {
 }
 
 
+/* VERTICLE VIDEO CSS CODE HERE */
 .fixed-height-scroll {
-    max-height: 400px; /* Adjust height as needed */
-    overflow-y: auto;
+    overflow: hidden; /* Hide the overflow content */
     position: relative;
+    height: 400px; /* Fixed container height */
 }
 
 .video-container-scroll {
     display: flex;
     flex-direction: column;
     gap: 20px; /* Space between videos */
+    position: relative; /* Ensure content stays within container */
+}
+
+.video-container-scroll.first-scroll {
+    animation: scrollUpContinuous 10s linear infinite; /* Smooth scroll bottom-to-top */
+}
+
+.video-container-scroll.second-scroll {
+    animation: scrollDownContinuous 10s linear infinite; /* Smooth scroll top-to-bottom */
 }
 
 .video-container-scroll video {
-    height: 200px; /* Fixed video height */
-    object-fit: cover;
+    height: 270px; /* Fixed height for each video */
+    object-fit: cover; /* Ensure proper fitting */
+}
+
+/* Bottom to Top Continuous Scroll */
+@keyframes scrollUpContinuous {
+    0% {
+        transform: translateY(100%); /* Start below the container */
+    }
+    100% {
+        transform: translateY(-100%); /* Move completely out of the container */
+    }
+}
+
+/* Top to Bottom Continuous Scroll */
+@keyframes scrollDownContinuous {
+    0% {
+        transform: translateY(-100%); /* Start above the container */
+    }
+    100% {
+        transform: translateY(100%); /* Move completely out of the container */
+    }
 }
