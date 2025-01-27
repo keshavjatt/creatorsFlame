@@ -455,16 +455,16 @@ function startContinuousScroll(containerId, duration, direction) {
   const container = document.getElementById(containerId);
   const videoItems = Array.from(container.children);
   const videoHeight = videoItems[0].offsetHeight;
-  const gap = 20; // वीडियो के बीच का अंतराल
+  const gap = 20; // VIDEO GAP
   const totalHeight = (videoHeight + gap) * videoItems.length;
 
-  // सभी वीडियो को क्लोन करें ताकि लूप लगातार चले
+  // CLONE ALL VIDEOS IN LOOP
   videoItems.forEach((item) => {
       const clone = item.cloneNode(true);
       container.appendChild(clone);
   });
 
-  // डाइनेमिक एनिमेशन जोड़ें
+  // DYNAMIC ANIMATION
   const keyframes = `
       @keyframes scroll${direction === 'up' ? 'Up' : 'Down'}Continuous {
           0% {
@@ -480,13 +480,13 @@ function startContinuousScroll(containerId, duration, direction) {
   styleSheet.innerHTML = keyframes;
   document.head.appendChild(styleSheet);
 
-  // कंटेनर को एनिमेशन लागू करें
+  // CONTAINER ANIMATION
   container.style.display = 'flex';
   container.style.flexDirection = 'column';
-  container.style.gap = `${gap}px`; // गैप जोड़ें
+  container.style.gap = `${gap}px`; // ADD GAP
   container.style.animation = `${direction === 'up' ? 'scrollUpContinuous' : 'scrollDownContinuous'} ${duration}s linear infinite`;
 }
 
-// दोनों सेक्शन के लिए स्क्रॉलिंग शुरू करें
-startContinuousScroll('first-scroll', 15, 'up'); // नीचे से ऊपर स्क्रॉल
-startContinuousScroll('second-scroll', 15, 'down'); // ऊपर से नीचे स्क्रॉल
+// SCROLLING ON BOTH SECTION
+startContinuousScroll('first-scroll', 15, 'up'); // BOTTOM TO TOP
+startContinuousScroll('second-scroll', 15, 'down'); // TOP TO BOTTOM
