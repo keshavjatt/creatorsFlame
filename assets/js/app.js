@@ -449,3 +449,22 @@ $("#uni-audio-play-pause").on("click", function (t) {
       : (document.getElementById("uni-background-audio").pause(),
         (playing = !1));
 });
+
+// VIDEO SCRIPT CODE HERE
+function startContinuousScroll(containerId, duration, direction) {
+  const container = document.getElementById(containerId);
+  const videoItems = container.children;
+
+  // Clone the videos to create an infinite loop effect
+  Array.from(videoItems).forEach((item) => {
+      const clone = item.cloneNode(true);
+      container.appendChild(clone);
+  });
+
+  // Add animation dynamically
+  container.style.animation = `${direction === 'up' ? 'scrollUpContinuous' : 'scrollDownContinuous'} ${duration}s linear infinite`;
+}
+
+// Initialize the scroll
+startContinuousScroll('first-scroll', 10, 'up'); // Bottom-to-Top scroll
+startContinuousScroll('second-scroll', 10, 'down'); // Top-to-Bottom scroll

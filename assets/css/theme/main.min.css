@@ -30698,6 +30698,40 @@ option {
     color: #fff
 }
 
+/* TEXT SIZE IN MOBILE VIEW */
+.uk-h2 {
+    font-size: 40px; /* Default font size for larger screens */
+}
+
+/* Mobile view styling */
+@media (max-width: 768px) {
+    .uk-h2 {
+        font-size: 29px !important;
+    }
+}
+
+/* DOTTED LINE IMAGE CSS CODE HERE */
+.dotted-line {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dotted-line-img {
+    position: absolute;
+    top: -295px;
+    left: 135%;
+    transform: translate(-48%, -50%) rotate(5deg);
+}
+
+/* Hide the image in mobile view */
+@media (max-width: 768px) {
+    .dotted-line-img {
+        display: none;
+    }
+}
+
 /* BRAND CSS CODE HERE  */
 .brand-slider-container {
     position: relative;
@@ -30747,47 +30781,39 @@ option {
 
 /* VERTICLE VIDEO CSS CODE HERE */
 .fixed-height-scroll {
-    overflow: hidden; /* Hide the overflow content */
+    overflow: hidden;
     position: relative;
-    height: 400px; /* Fixed container height */
+    height: 400px;
 }
 
 .video-container-scroll {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Space between videos */
-    position: relative; /* Ensure content stays within container */
+    gap: 20px;
+    position: relative;
+    animation: none;
 }
 
-.video-container-scroll.first-scroll {
-    animation: scrollUpContinuous 10s linear infinite; /* Smooth scroll bottom-to-top */
+.video-wrapper video {
+    height: 270px;
+    object-fit: cover;
 }
 
-.video-container-scroll.second-scroll {
-    animation: scrollDownContinuous 10s linear infinite; /* Smooth scroll top-to-bottom */
-}
-
-.video-container-scroll video {
-    height: 270px; /* Fixed height for each video */
-    object-fit: cover; /* Ensure proper fitting */
-}
-
-/* Bottom to Top Continuous Scroll */
+/* Keyframes for continuous scrolling */
 @keyframes scrollUpContinuous {
     0% {
-        transform: translateY(100%); /* Start below the container */
+        transform: translateY(0);
     }
     100% {
-        transform: translateY(-100%); /* Move completely out of the container */
+        transform: translateY(-100%);
     }
 }
 
-/* Top to Bottom Continuous Scroll */
 @keyframes scrollDownContinuous {
     0% {
-        transform: translateY(-100%); /* Start above the container */
+        transform: translateY(-100%);
     }
     100% {
-        transform: translateY(100%); /* Move completely out of the container */
+        transform: translateY(0);
     }
 }

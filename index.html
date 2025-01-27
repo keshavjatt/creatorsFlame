@@ -229,7 +229,7 @@
                     <div class="uk-position-cover uk-background-cover uk-opacity-10 dark:uk-hidden" data-src="../assets/images/gradient-01.png" data-uk-img></div>
                     <div class="uk-position-cover uk-background-cover uk-opacity-20 uk-hidden dark:uk-visible" data-src="../assets/images/gradient-01.png" data-uk-img></div>
                 </div>
-                <div class="uk-panel uk-position-z-index">
+                <div class="uk-panel uk-position-z-index" style="margin-top: 70px;">
                     <div class="uk-container">
                         <div class="uk-panel">
                             <div class="uk-grid uk-grid-2xlarge uk-flex-middle uk-flex-between" data-uk-grid data-uk-height-viewport="offset-top: true; offset-bottom: 20;">
@@ -238,18 +238,20 @@
                                         <img class="uk-position-top-left" width="44" src="../assets/images/objects/ethereum-01.png" alt="object" style="top: -20%; left: 50%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 400;">
                                         <img class="uk-position-left" width="16" src="../assets/images/objects/circle-01.png" alt="object" style="top: 16%; left: -16%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 420;">
                                         <img class="uk-position-bottom-left" width="24" src="../assets/images/objects/circle-03.png" alt="object" style="bottom: -16%; left: 16%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 440;">
-                                        <h2 class="uk-h2 uk-heading-d3@m uk-margin-small uk-margin@m">CreatorFlame where creators shine ✨</h2>
+                                        <h3 class="uk-h2 uk-heading-d3@m uk-margin-small uk-margin@m">CreatorFlame where creators shine ✨</h3>
                                         <p class="uk-text-xlarge uk-width-xlarge@m uk-text-muted"> and brand grow bigger Guaranteed Results For Brands & Guaranteed Outreach for Creators at CreatorFlame.</p>
                                         <a href="#" style="background-color: #FEC002;" class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
                                             <span>I'm a brand</span>
-                                            <!-- <i class="uk-icon-small unicon-arrow-right uk-text-bold"></i> -->
                                         </a>
                                         <a href="#" style="background-color: #FEC002;margin-left: 32px;" class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top" style="margin-left: 25px;">
                                             <span>I'm a influencer</span>
-                                            <!-- <i class="uk-icon-small unicon-arrow-right uk-text-bold"></i> -->
                                         </a>
                                     </div>
+                                    <div class="dotted-line" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                                        <img src="assets/images/dotted-new-line.png" alt="dotted-line-img" class="dotted-line-img">
+                                    </div>
                                 </div>
+                                
                                 <div class="uk-width-6-12@m uk-flex-center">
                                     <div class="uk-panel" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 200;">
                                         <!-- <img class="uk-position-left uk-text-primary" width="44" src="../assets/images/objects/bitcoin-01.png" alt="object" style="top: 75%; left: -20%" data-uk-svg="" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 460;"> -->
@@ -261,26 +263,31 @@
                                         <div class="uk-grid uk-grid-xsmall uk-child-width-1-2" data-uk-grid="masonry: true;">
                                             <!-- Main Video First (Bottom to Top) -->
                                             <div class="main-video-first fixed-height-scroll">
-                                                <div class="video-container-scroll first-scroll">
-                                                    <div class="uni-item uk-card uk-overflow-hidden uk-radius uk-radius-large@m uk-box-shadow-hover-medium uk-visible-toggle uk-transition-toggle uk-box-shadow-medium uk-background-white dark:uk-background-white-5">
-                                                        <div class="uni-item-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                                            <div class="uk-panel uk-image-middle">
-                                                                <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                                    <source src="assets/videos/video-01.mp4" type="video/mp4">
-                                                                    Your browser does not support the video tag.
-                                                                </video>
-                                                            </div>
-                                                        </div>
+                                                <div class="video-container-scroll first-scroll" id="first-scroll">
+                                                    <!-- Videos -->
+                                                    <div class="video-wrapper">
+                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                            <source src="assets/videos/video-01.mp4" type="video/mp4">
+                                                            Your browser does not support the video tag.
+                                                        </video>
                                                     </div>
-                                                    <div class="uni-item uk-card uk-overflow-hidden uk-radius uk-radius-large@m uk-box-shadow-hover-medium uk-visible-toggle uk-transition-toggle uk-box-shadow-medium uk-background-white dark:uk-background-white-5">
-                                                        <div class="uni-item-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                                            <div class="uk-panel uk-image-middle">
-                                                                <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                                    <source src="assets/videos/video-02.mp4" type="video/mp4">
-                                                                    Your browser does not support the video tag.
-                                                                </video>
-                                                            </div>
-                                                        </div>
+                                                    <div class="video-wrapper">
+                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                            <source src="assets/videos/video-02.mp4" type="video/mp4">
+                                                            Your browser does not support the video tag.
+                                                        </video>
+                                                    </div>
+                                                    <div class="video-wrapper">
+                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                            <source src="assets/videos/video-03.mp4" type="video/mp4">
+                                                            Your browser does not support the video tag.
+                                                        </video>
+                                                    </div>
+                                                    <div class="video-wrapper">
+                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                            <source src="assets/videos/video-04.mp4" type="video/mp4">
+                                                            Your browser does not support the video tag.
+                                                        </video>
                                                     </div>
                                                 </div>
                                             </div>
@@ -288,33 +295,36 @@
                                             <!-- Main Video Second (Top to Bottom) -->
                                             <div class="uk-margin-large-top">
                                                 <div class="main-video-second fixed-height-scroll">
-                                                    <div class="video-container-scroll second-scroll">
-                                                        <div class="uni-item uk-card uk-overflow-hidden uk-radius uk-radius-large@m uk-box-shadow-hover-medium uk-visible-toggle uk-transition-toggle uk-box-shadow-medium uk-background-white dark:uk-background-white-5">
-                                                            <div class="uni-item-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                                                <div class="uk-panel uk-image-middle">
-                                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                                        <source src="assets/videos/video-03.mp4" type="video/mp4">
-                                                                        Your browser does not support the video tag.
-                                                                    </video>
-                                                                </div>
-                                                            </div>
+                                                    <div class="video-container-scroll second-scroll" id="second-scroll">
+                                                        <!-- Videos -->
+                                                        <div class="video-wrapper">
+                                                            <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                                <source src="assets/videos/video-05.mp4" type="video/mp4">
+                                                                Your browser does not support the video tag.
+                                                            </video>
                                                         </div>
-                                                        <div class="uni-item uk-card uk-overflow-hidden uk-radius uk-radius-large@m uk-box-shadow-hover-medium uk-visible-toggle uk-transition-toggle uk-box-shadow-medium uk-background-white dark:uk-background-white-5">
-                                                            <div class="uni-item-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                                                <div class="uk-panel uk-image-middle">
-                                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                                        <source src="assets/videos/video-04.mp4" type="video/mp4">
-                                                                        Your browser does not support the video tag.
-                                                                    </video>
-                                                                </div>
-                                                            </div>
+                                                        <div class="video-wrapper">
+                                                            <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                                <source src="assets/videos/video-06.mp4" type="video/mp4">
+                                                                Your browser does not support the video tag.
+                                                            </video>
+                                                        </div>
+                                                        <div class="video-wrapper">
+                                                            <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                                <source src="assets/videos/video-07.mp4" type="video/mp4">
+                                                                Your browser does not support the video tag.
+                                                            </video>
+                                                        </div>
+                                                        <div class="video-wrapper">
+                                                            <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
+                                                                <source src="assets/videos/video-01.mp4" type="video/mp4">
+                                                                Your browser does not support the video tag.
+                                                            </video>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        
-                                        
+                                        </div>                                                                               
                                         
                                         <a class="uni-circle-text uk-background-white dark:uk-background-gray-80 uk-box-shadow-large uk-visible@m" href="#view_in_opensea" style="background-color: #332A3F !important">
                                             <svg class="uni-circle-text-path uk-text-secondary uni-animation-spin" viewBox="0 0 100 100" width="120" height="120">
