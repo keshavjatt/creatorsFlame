@@ -30721,22 +30721,23 @@ option {
 .dotted-line-img {
     position: absolute;
     top: -295px;
-    left: 135%;
-    transform: translate(-48%, -50%) rotate(5deg);
+    left: 136%;
+    transform: translate(-48%, -50%) rotate(9deg);
+    height: 412px;
 }
 
-/* Hide the image in mobile view */
+/* HIDE THE DOTTED IMAGE IN MOBILE VIEW */
 @media (max-width: 768px) {
     .dotted-line-img {
         display: none;
     }
 }
 
-/* BRAND CSS CODE HERE  */
+/* BRAND CSS CODE STARTS HERE  */
 .brand-slider-container {
     position: relative;
     overflow: hidden;
-    /* : #fff; */
+    /* background-color: #fff; */
 }
 
 .brand-slider-wrapper {
@@ -30778,8 +30779,9 @@ option {
         transform: translateX(-100%);
     }
 }
+/* BRAND CSS CODE ENDS HERE  */
 
-/* VERTICLE VIDEO CSS CODE HERE */
+/* VERTICLE VIDEO CSS CODE STARTS HERE */
 .fixed-height-scroll {
     overflow: hidden;
     position: relative;
@@ -30796,22 +30798,4 @@ option {
     height: 240px;
     object-fit: cover;
 }
-
-/* Keyframes for seamless scrolling */
-@keyframes scrollUpContinuous {
-    0% {
-        transform: translateY(0);
-    }
-    100% {
-        transform: translateY(-100%);
-    }
-}
-
-@keyframes scrollDownContinuous {
-    0% {
-        transform: translateY(-100%);
-    }
-    100% {
-        transform: translateY(0);
-    }
-}
+/* VERTICLE VIDEO CSS CODE ENDS HERE */

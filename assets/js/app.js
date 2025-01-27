@@ -454,28 +454,24 @@ $("#uni-audio-play-pause").on("click", function (t) {
 function startContinuousScroll(containerId, duration, direction) {
   const container = document.getElementById(containerId);
   const videoItems = Array.from(container.children);
-  const containerHeight = container.offsetHeight;
+  const videoHeight = videoItems[0].offsetHeight;
+  const gap = 20; // वीडियो के बीच का अंतराल
+  const totalHeight = (videoHeight + gap) * videoItems.length;
 
-  // Clone the videos to create seamless looping
+  // सभी वीडियो को क्लोन करें ताकि लूप लगातार चले
   videoItems.forEach((item) => {
       const clone = item.cloneNode(true);
       container.appendChild(clone);
   });
 
-  // Calculate the total height of all videos
-  const totalHeight = videoItems.length * videoItems[0].offsetHeight;
-
-  // Set the container's animation
-  container.style.animation = `${direction === 'up' ? 'scrollUpContinuous' : 'scrollDownContinuous'} ${duration}s linear infinite`;
-
-  // Dynamically adjust animation keyframe
+  // डाइनेमिक एनिमेशन जोड़ें
   const keyframes = `
       @keyframes scroll${direction === 'up' ? 'Up' : 'Down'}Continuous {
           0% {
-              transform: translateY(0);
+              transform: translateY(${direction === 'up' ? '0' : `-${totalHeight}px`});
           }
           100% {
-              transform: translateY(-${totalHeight}px);
+              transform: translateY(${direction === 'up' ? `-${totalHeight}px` : '0'});
           }
       }
   `;
@@ -483,8 +479,14 @@ function startContinuousScroll(containerId, duration, direction) {
   styleSheet.type = 'text/css';
   styleSheet.innerHTML = keyframes;
   document.head.appendChild(styleSheet);
+
+  // कंटेनर को एनिमेशन लागू करें
+  container.style.display = 'flex';
+  container.style.flexDirection = 'column';
+  container.style.gap = `${gap}px`; // गैप जोड़ें
+  container.style.animation = `${direction === 'up' ? 'scrollUpContinuous' : 'scrollDownContinuous'} ${duration}s linear infinite`;
 }
 
-// Initialize the scroll
-startContinuousScroll('first-scroll', 10, 'up'); // Bottom-to-Top scroll
-startContinuousScroll('second-scroll', 10, 'down'); // Top-to-Bottom scroll
+// दोनों सेक्शन के लिए स्क्रॉलिंग शुरू करें
+startContinuousScroll('first-scroll', 15, 'up'); // नीचे से ऊपर स्क्रॉल
+startContinuousScroll('second-scroll', 15, 'down'); // ऊपर से नीचे स्क्रॉल
