@@ -30752,7 +30752,7 @@ option {
     display: flex;
     align-items: center;
     gap: 30px;
-    animation: move-slider 10s linear infinite; 
+    animation: move-slider 21s linear infinite; 
     white-space: nowrap;
     width: 100%;
 }
