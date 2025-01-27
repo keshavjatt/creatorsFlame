@@ -30783,23 +30783,21 @@ option {
 .fixed-height-scroll {
     overflow: hidden;
     position: relative;
-    height: 400px;
+    height: 500px;
 }
 
 .video-container-scroll {
     display: flex;
     flex-direction: column;
-    gap: 20px;
     position: relative;
-    animation: none;
 }
 
 .video-wrapper video {
-    height: 270px;
+    height: 240px;
     object-fit: cover;
 }
 
-/* Keyframes for continuous scrolling */
+/* Keyframes for seamless scrolling */
 @keyframes scrollUpContinuous {
     0% {
         transform: translateY(0);

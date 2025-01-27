@@ -453,16 +453,36 @@ $("#uni-audio-play-pause").on("click", function (t) {
 // VIDEO SCRIPT CODE HERE
 function startContinuousScroll(containerId, duration, direction) {
   const container = document.getElementById(containerId);
-  const videoItems = container.children;
+  const videoItems = Array.from(container.children);
+  const containerHeight = container.offsetHeight;
 
-  // Clone the videos to create an infinite loop effect
-  Array.from(videoItems).forEach((item) => {
+  // Clone the videos to create seamless looping
+  videoItems.forEach((item) => {
       const clone = item.cloneNode(true);
       container.appendChild(clone);
   });
 
-  // Add animation dynamically
+  // Calculate the total height of all videos
+  const totalHeight = videoItems.length * videoItems[0].offsetHeight;
+
+  // Set the container's animation
   container.style.animation = `${direction === 'up' ? 'scrollUpContinuous' : 'scrollDownContinuous'} ${duration}s linear infinite`;
+
+  // Dynamically adjust animation keyframe
+  const keyframes = `
+      @keyframes scroll${direction === 'up' ? 'Up' : 'Down'}Continuous {
+          0% {
+              transform: translateY(0);
+          }
+          100% {
+              transform: translateY(-${totalHeight}px);
+          }
+      }
+  `;
+  const styleSheet = document.createElement('style');
+  styleSheet.type = 'text/css';
+  styleSheet.innerHTML = keyframes;
+  document.head.appendChild(styleSheet);
 }
 
 // Initialize the scroll
