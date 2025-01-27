@@ -175,7 +175,10 @@
                         <nav class="uk-navbar uk-navbar-container uk-navbar-transparent" data-uk-navbar>
                             <div class="uk-navbar-top">
                                 <div class="uk-navbar-left">
-                                    <a class='uk-logo uk-navbar-item uk-h4 uk-h3@m uk-margin-remove' href='#'> <img class="uk-visible dark:uk-hidden" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy"> <img class="uk-hidden dark:uk-visible" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy"> </a>
+                                    <a class='uk-logo uk-navbar-item uk-h4 uk-h3@m uk-margin-remove' href='#'>
+                                        <img class="uk-visible dark:uk-hidden" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
+                                        <img class="uk-hidden dark:uk-visible" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
+                                    </a>
                                 </div>
 
                                 <div class="uk-navbar-right uk-flex-1 uk-flex-right">
@@ -191,9 +194,6 @@
                                             <li>
                                                 <a href="#"><i class="uk-icon uk-icon-medium unicon-logo-linkedin"></i></a>
                                             </li>
-                                            <!-- <li>
-                                                <a href="https://discord.com/unistudioco"><i class="uk-icon uk-icon-medium unicon-logo-discord"></i></a>
-                                            </li> -->
                                         </ul>
 
                                         <!-- header: call to actions -->
@@ -202,11 +202,9 @@
                                         </a>
                                     </div>
 
+                                    <!-- Mobile Menu Toggle Button -->
                                     <div class="uk-navbar-item uk-hidden@m">
-                                        <!-- <a href="#" class="uk-button uk-button-medium@m uk-button-icon uk-hidden@m uk-margin-small-right" data-uk-toggle="">
-                                            <i class="uk-icon unicon-wallet"></i>
-                                        </a> -->
-                                        <a href="#" data-uk-toggle>
+                                        <a href="#" data-uk-toggle="target: #mobile-menu; animation: uk-animation-slide-top-medium">
                                             <span class="uk-icon uk-icon-medium material-icons">menu</span>
                                         </a>
                                     </div>
@@ -217,6 +215,18 @@
                 </div>
             </header>
 
+            <!-- Mobile Menu -->
+            <div id="mobile-menu" class="uk-navbar-container uk-navbar-transparent uk-hidden@m" data-uk-offcanvas="mode: push; overlay: true;">
+                <div class="uk-offcanvas-bar" style="background-color: #332A3F;">
+                    <!-- List of menu items -->
+                    <ul class="uk-nav uk-nav-default">
+                        <li><a href="#about" >About Us</a></li>
+                        <li><a href="#service">Services</a></li>
+                        <li><a href="#partnership">Partnership</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
             <!-- Header end -->
 
             <!-- Hero start -->

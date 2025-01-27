@@ -30698,6 +30698,10 @@ option {
     color: #fff
 }
 
+/* TOGGLE MOBILE MENU CSS CODE STARTS HERE */
+
+/* TOGGLE MOBILE MENU CSS CODE ENDS HERE */
+
 /* TEXT SIZE IN MOBILE VIEW */
 .uk-h2 {
     font-size: 40px; /* Default font size for larger screens */
@@ -30710,7 +30714,7 @@ option {
     }
 }
 
-/* DOTTED LINE IMAGE CSS CODE HERE */
+/* DOTTED LINE IMAGE CSS CODE STARTS HERE */
 .dotted-line {
     position: relative;
     display: flex;
@@ -30732,6 +30736,7 @@ option {
         display: none;
     }
 }
+/* DOTTED LINE IMAGE CSS CODE STARTS HERE */
 
 /* BRAND CSS CODE STARTS HERE  */
 .brand-slider-container {
