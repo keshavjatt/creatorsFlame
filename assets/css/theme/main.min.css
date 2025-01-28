@@ -30724,10 +30724,10 @@ option {
 
 .dotted-line-img {
     position: absolute;
-    top: -295px;
-    left: 136%;
-    transform: translate(-48%, -50%) rotate(9deg);
-    height: 412px;
+    top: -217px;
+    left: 121%;
+    transform: translate(-48%, -50%) rotate(-20deg);
+    height: 304px;
 }
 
 /* HIDE THE DOTTED IMAGE IN MOBILE VIEW */
