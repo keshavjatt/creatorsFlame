@@ -30742,12 +30742,10 @@ option {
 .brand-slider-container {
     position: relative;
     overflow: hidden;
-    /* background-color: #fff; */
 }
 
 .brand-slider-wrapper {
     position: relative;
-    /* : #FFC800;  */
     padding: 10px 0;
     overflow: hidden;
     width: 100%;
@@ -30757,9 +30755,9 @@ option {
     display: flex;
     align-items: center;
     gap: 30px;
-    animation: move-slider 21s linear infinite; 
     white-space: nowrap;
-    width: 100%;
+    width: max-content;
+    animation: move-slider 21s linear infinite;
 }
 
 .brand-item {
@@ -30769,7 +30767,7 @@ option {
 
 .brand-item img {
     display: block;
-    height: 50px; 
+    height: 50px;
     background-color: white;
     padding: 5px;
     border-radius: 5px;
@@ -30777,11 +30775,11 @@ option {
 }
 
 @keyframes move-slider {
-    0% {
-        transform: translateX(100%);
+    from {
+        transform: translateX(0);
     }
-    100% {
-        transform: translateX(-100%);
+    to {
+        transform: translateX(-50%);
     }
 }
 /* BRAND CSS CODE ENDS HERE  */
