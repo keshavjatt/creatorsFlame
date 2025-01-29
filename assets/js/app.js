@@ -492,22 +492,18 @@ startContinuousScroll('first-scroll', 15, 'up'); // BOTTOM TO TOP
 startContinuousScroll('second-scroll', 15, 'down'); // TOP TO BOTTOM
 
 
+
 // Cards move on right to left
 document.addEventListener("DOMContentLoaded", function () {
-  const scrollContainer = document.querySelector(".scroll-container");
   const scrollContent = document.querySelector(".scroll-content");
 
   // Duplicate content for smooth infinite scrolling
   scrollContent.innerHTML += scrollContent.innerHTML;
-  
-  let speed = 1; // Adjust scrolling speed
-  function scroll() {
-      if (scrollContainer.scrollLeft >= scrollContent.scrollWidth / 2) {
-          scrollContainer.scrollLeft = 0; // Reset scroll position
-      } else {
-          scrollContainer.scrollLeft += speed; // Move by speed pixels
-      }
-      requestAnimationFrame(scroll);
+
+  // Function to start infinite scrolling with CSS
+  function startScrolling() {
   }
-  scroll(); // Start infinite scrolling
+
+  // Start infinite scrolling
+  startScrolling();
 });

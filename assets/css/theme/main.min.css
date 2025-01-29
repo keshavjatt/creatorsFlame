@@ -30712,14 +30712,13 @@ option {
     overflow: hidden;
     width: 100%;
     position: relative;
-    white-space: nowrap;
 }
 
 /* Inner container that moves */
 .scroll-content {
     display: flex;
     gap: 20px; /* Same gap between cards */
-    width: max-content; /* Prevent wrapping */
+    animation: scroll 20s linear infinite; /* Animation for smooth scrolling */
 }
 
 /* Individual Card */
@@ -30752,7 +30751,18 @@ option {
     color: #fff;
     opacity: 0.8;
 }
+
+/* CSS Animation for Scrolling */
+@keyframes scroll {
+    from {
+        transform: translateX(0); /* Starting position */
+    }
+    to {
+        transform: translateX(-100%); /* End position */
+    }
+}
 /* Our Exclusive Talent CSS Code Ends Here */
+
 
 /* Mobile view styling */
 @media (max-width: 768px) {
