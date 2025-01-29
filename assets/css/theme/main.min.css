@@ -30633,7 +30633,7 @@ input[type=range].uk-dark {
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     input[type=range] {
-        -webkit-appearance: none;
+        /* -webkit-appearance: none; */
         height: 4px
     }
 
@@ -30706,6 +30706,53 @@ option {
 .uk-h2 {
     font-size: 40px; /* Default font size for larger screens */
 }
+
+/* Our Exclusive Talent CSS Code Starts Here */
+.scroll-container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    white-space: nowrap;
+}
+
+/* Inner container that moves */
+.scroll-content {
+    display: flex;
+    gap: 20px; /* Same gap between cards */
+    width: max-content; /* Prevent wrapping */
+}
+
+/* Individual Card */
+.card {
+    flex: 0 0 auto;
+    width: 200px;
+    padding: 10px;
+    background: linear-gradient(to right, #ff3e00, #f4ff27);
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Image */
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Card Name */
+.card h3 {
+    font-size: 16px;
+    margin: 10px 0 5px;
+    color: #fff;
+}
+
+/* Card Position */
+.card span {
+    font-size: 14px;
+    color: #fff;
+    opacity: 0.8;
+}
+/* Our Exclusive Talent CSS Code Ends Here */
 
 /* Mobile view styling */
 @media (max-width: 768px) {
