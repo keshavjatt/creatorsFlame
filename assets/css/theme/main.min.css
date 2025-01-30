@@ -23624,7 +23624,8 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 
 .uk-text-gradient {
     /* : var(--gradient-first); */
-    background-image: linear-gradient(var(--gradient-angle), #ff3e00, #f4ff27);
+    /* background-image: linear-gradient(var(--gradient-angle), #ff3e00, #f4ff27); */
+    background: linear-gradient(45deg, orange, yellow);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent
@@ -30727,7 +30728,8 @@ option {
     width: 200px;
     padding: 10px;
     /* background: linear-gradient(to right, #ff3e00, #f4ff27); */
-    background-color: #FFB902;
+    background: linear-gradient(45deg, orange, yellow);
+    /* background-color: #FFB902; */
     border-radius: 15px;
     text-align: center;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
