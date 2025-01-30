@@ -30765,8 +30765,13 @@ option {
 
 
 /* Mobile view styling */
+.custom-heading {
+    font-size: 50px !important;
+}
+
+/* Mobile View Styling */
 @media (max-width: 768px) {
-    .uk-h2 {
+    .custom-heading {
         font-size: 29px !important;
     }
 }
