@@ -30726,7 +30726,8 @@ option {
     flex: 0 0 auto;
     width: 200px;
     padding: 10px;
-    background: linear-gradient(to right, #ff3e00, #f4ff27);
+    /* background: linear-gradient(to right, #ff3e00, #f4ff27); */
+    background-color: #FFB902;
     border-radius: 15px;
     text-align: center;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
