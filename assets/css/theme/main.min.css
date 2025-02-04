@@ -30699,9 +30699,15 @@ option {
     color: #fff
 }
 
-/* TOGGLE MOBILE MENU CSS CODE STARTS HERE */
+.left-side{
+    margin-top: -385px;
+}
 
-/* TOGGLE MOBILE MENU CSS CODE ENDS HERE */
+@media (max-width: 768px) {
+    .left-side {
+        margin-top: 0px;
+    }
+}
 
 /* TEXT SIZE IN MOBILE VIEW */
 .uk-h2 {
