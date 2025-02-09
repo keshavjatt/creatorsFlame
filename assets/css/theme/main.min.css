@@ -30800,6 +30800,7 @@ option {
 
 /* Mobile view styling */
 .custom-heading {
+    text-transform: uppercase;
     font-size: 50px !important;
 }
 
