@@ -1,70 +1,72 @@
 <!DOCTYPE html>
 <html lang="zxx" class="uk-background-white dark:uk-background-gray-100 dark:uk-text-gray-20 uk-dark">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Creators Frame</title>
-        <link rel="icon" type="image/png" href="../favicon.ico"/>
-        <meta name="description" content="Creators Flame Website">
-        <!-- <meta name="theme-color" content="#741ff5"> -->
 
-        <!-- preload head styles -->
-        <link rel="preload" href="../assets/fonts/brand-icons/brand-icons.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="../assets/fonts/unicons/Unicons.woff@lkolxg" as="font" type="font/woff" crossorigin>
-        <link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@8.3.2/swiper-bundle.min.css" as="style">
-        <link rel="preload" href="https://cdn.jsdelivr.net/npm/uikit@3.15.1/dist/css/uikit.min.css" as="style">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creators Frame</title>
+    <link rel="icon" type="image/png" href="../favicon.ico" />
+    <meta name="description" content="Creators Flame Website">
+    <!-- <meta name="theme-color" content="#741ff5"> -->
 
-        <!-- preload footer scripts -->
-        <link rel="preload" href="../assets/js/libs/uikit.min.js" as="script">
-        <link rel="preload" href="../assets/js/uikit-components.js" as="script">
-        <link rel="preload" href="../assets/js/libs/jquery.min.js" as="script">
-        <link rel="preload" href="../assets/js/libs/swiper-bundle.min.js" as="script">
-        <link rel="preload" href="../assets/js/libs/feather.min.js" as="script">
-        <link rel="preload" href="../assets/js/libs/typed.min.js" as="script">
-        <link rel="preload" href="../assets/js/libs/anime.min.js" as="script">
-        <link rel="preload" href="../assets/js/app.js" as="script">
-        <link rel="preload" href="../assets/js/helpers/data-attr-helper.js" as="script">
-        <link rel="preload" href="../assets/js/helpers/swiper-helper.js" as="script">
-        <link rel="preload" href="../assets/js/helpers/typed-helper.js" as="script">
-        <link rel="preload" href="../assets/js/helpers/anime-helper.js" as="script">
+    <!-- preload head styles -->
+    <link rel="preload" href="../assets/fonts/brand-icons/brand-icons.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="../assets/fonts/unicons/Unicons.woff@lkolxg" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@8.3.2/swiper-bundle.min.css" as="style">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/uikit@3.15.1/dist/css/uikit.min.css" as="style">
 
-        <!-- include styles -->
-        <script src="../assets/js/app-head.js"></script>
-        <link rel="stylesheet" href="../assets/css/theme/main.min.css">
+    <!-- preload footer scripts -->
+    <link rel="preload" href="../assets/js/libs/uikit.min.js" as="script">
+    <link rel="preload" href="../assets/js/uikit-components.js" as="script">
+    <link rel="preload" href="../assets/js/libs/jquery.min.js" as="script">
+    <link rel="preload" href="../assets/js/libs/swiper-bundle.min.js" as="script">
+    <link rel="preload" href="../assets/js/libs/feather.min.js" as="script">
+    <link rel="preload" href="../assets/js/libs/typed.min.js" as="script">
+    <link rel="preload" href="../assets/js/libs/anime.min.js" as="script">
+    <link rel="preload" href="../assets/js/app.js" as="script">
+    <link rel="preload" href="../assets/js/helpers/data-attr-helper.js" as="script">
+    <link rel="preload" href="../assets/js/helpers/swiper-helper.js" as="script">
+    <link rel="preload" href="../assets/js/helpers/typed-helper.js" as="script">
+    <link rel="preload" href="../assets/js/helpers/anime-helper.js" as="script">
 
-        <!-- include scripts -->
-        <script src="../assets/js/libs/uikit.min.js"></script>
-        <script src="../assets/js/uikit-components.js"></script>
-    
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5JJP7FY91"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-B5JJP7FY91');
-        </script>
-        <script async type="module">
-            import { getCLS, getFCP, getFID, getLCP, getTTFB } from 'https://cdn.jsdelivr.net/npm/web-vitals@2.1.2/dist/web-vitals.js';
-            function sendToGoogleAnalytics({ name, delta, id }) {
-                gtag('event', name, {
-                    event_category: 'Web Vitals',
-                    event_label: id,
-                    value: Math.round(name === 'CLS' ? delta * 1000 : delta),
-                    non_interaction: true,
-                });
-            }
-            /* CLS FCP FID LCP TTFB */
-            getCLS(sendToGoogleAnalytics);
-            getFCP(sendToGoogleAnalytics);
-            getFID(sendToGoogleAnalytics);
-            getLCP(sendToGoogleAnalytics);
-            getTTFB(sendToGoogleAnalytics);
-        </script>
-    </head>
-    <body class="uni-body">
+    <!-- include styles -->
+    <script src="../assets/js/app-head.js"></script>
+    <link rel="stylesheet" href="../assets/css/theme/main.min.css">
 
-        <!-- Dark/Light toggle -->
-        <!-- <div class="darkmode-trigger uk-position-bottom-right uk-position-small uk-position-fixed uk-box-shadow-large uk-radius-circle" data-darkmode-toggle="">
+    <!-- include scripts -->
+    <script src="../assets/js/libs/uikit.min.js"></script>
+    <script src="../assets/js/uikit-components.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5JJP7FY91"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-B5JJP7FY91');
+    </script>
+    <script async type="module">
+        import { getCLS, getFCP, getFID, getLCP, getTTFB } from 'https://cdn.jsdelivr.net/npm/web-vitals@2.1.2/dist/web-vitals.js';
+        function sendToGoogleAnalytics({ name, delta, id }) {
+            gtag('event', name, {
+                event_category: 'Web Vitals',
+                event_label: id,
+                value: Math.round(name === 'CLS' ? delta * 1000 : delta),
+                non_interaction: true,
+            });
+        }
+        /* CLS FCP FID LCP TTFB */
+        getCLS(sendToGoogleAnalytics);
+        getFCP(sendToGoogleAnalytics);
+        getFID(sendToGoogleAnalytics);
+        getLCP(sendToGoogleAnalytics);
+        getTTFB(sendToGoogleAnalytics);
+    </script>
+</head>
+
+<body class="uni-body">
+
+    <!-- Dark/Light toggle -->
+    <!-- <div class="darkmode-trigger uk-position-bottom-right uk-position-small uk-position-fixed uk-box-shadow-large uk-radius-circle" data-darkmode-toggle="">
             <label class="switch">
                 <span class="sr-only">Dark mode toggle</span>
                 <input type="checkbox">
@@ -72,90 +74,105 @@
             </label>
         </div> -->
 
-        <!-- Menu modal -->
-        <div id="uni_mobile_menu" class="uni-mobile-menu uk-offcanvas" data-uk-offcanvas="mode: push; overlay: true; flip: true; selPanel: .uk-offcanvas-bar-panel;">
-            <div class="uk-offcanvas-bar-panel uk-panel dark:uk-background-gray-100">
-                <div class="uni-mobile-menu-wrap uk-flex-column uk-flex-between" data-uk-height-viewport="offset-bottom: true;">
-                    <div class="uni-mobile-menu-content">
-                        <header class="uk-card uk-card-2xsmall uk-flex-middle uk-flex-between">
-                            <div class="uk-flex-1">
-                                <button aria-label="Close Menu" class="uk-offcanvas-close uk-button uk-button-small uk-button-icon uk-button-default uk-button-outline uk-radius-circle" type="button">
-                                    <i class="uk-icon-small" data-feather="arrow-left"></i>
-                                </button>
-                            </div>
-                            <div>
-                                <h5 class="uk-h5 uk-text-uppercase uk-margin-remove">Navigation</h5>
-                            </div>
-                            <div class="uk-flex-1"></div>
-                        </header>
-                        <hr class="uk-margin-remove">
-                        <div class="uk-card uk-card-small">
-                            <div class="uk-panel">
-                                <ul class="uk-nav uk-nav-default">
-                                    <li class="uk-nav-header">Homepages</li>
-                                    <li><a href='landing-01.html'>Landing 01</a></li>
-                                    <li><a href='landing-02.html'>Landing 02</a></li>
-                                    <li><a href='landing-03.html'>Landing 03</a></li>
-                                    <li><a href='landing-04.html'>Landing 04</a></li>
-                                    <li><a href='landing-05.html'>Landing 05</a></li>
-                                    <li class="uk-nav-header">Inner pages</li>
-                                    <li><a href='base.html'>Base components</a></li>
-                                    <li><a href='connect-wallet.html'>Connect wallet</a></li>
-                                    <li><a href='contact.html'>Contact</a></li>
-                                    <li><a href='404.html'>404 page</a></li>
-                                    <li><a href="https://unistudio.co/html/nerko/main/coming-soon.html">Coming soon</a></li>
-                                    <li class="uk-nav-header">Content &amp; Privacy</li>
-                                    <li><a href='terms.html'>Terms of use</a></li>
-                                    <li><a href="https://unistudio.co/html/nerko/main/privact.html">Privacy Policy</a></li>
-                                </ul>
-                            </div>
+    <!-- Menu modal -->
+    <div id="uni_mobile_menu" class="uni-mobile-menu uk-offcanvas"
+        data-uk-offcanvas="mode: push; overlay: true; flip: true; selPanel: .uk-offcanvas-bar-panel;">
+        <div class="uk-offcanvas-bar-panel uk-panel dark:uk-background-gray-100">
+            <div class="uni-mobile-menu-wrap uk-flex-column uk-flex-between"
+                data-uk-height-viewport="offset-bottom: true;">
+                <div class="uni-mobile-menu-content">
+                    <header class="uk-card uk-card-2xsmall uk-flex-middle uk-flex-between">
+                        <div class="uk-flex-1">
+                            <button aria-label="Close Menu"
+                                class="uk-offcanvas-close uk-button uk-button-small uk-button-icon uk-button-default uk-button-outline uk-radius-circle"
+                                type="button">
+                                <i class="uk-icon-small" data-feather="arrow-left"></i>
+                            </button>
+                        </div>
+                        <div>
+                            <h5 class="uk-h5 uk-text-uppercase uk-margin-remove">Navigation</h5>
+                        </div>
+                        <div class="uk-flex-1"></div>
+                    </header>
+                    <hr class="uk-margin-remove">
+                    <div class="uk-card uk-card-small">
+                        <div class="uk-panel">
+                            <ul class="uk-nav uk-nav-default">
+                                <li class="uk-nav-header">Homepages</li>
+                                <li><a href='landing-01.html'>Landing 01</a></li>
+                                <li><a href='landing-02.html'>Landing 02</a></li>
+                                <li><a href='landing-03.html'>Landing 03</a></li>
+                                <li><a href='landing-04.html'>Landing 04</a></li>
+                                <li><a href='landing-05.html'>Landing 05</a></li>
+                                <li class="uk-nav-header">Inner pages</li>
+                                <li><a href='base.html'>Base components</a></li>
+                                <li><a href='connect-wallet.html'>Connect wallet</a></li>
+                                <li><a href='contact.html'>Contact</a></li>
+                                <li><a href='404.html'>404 page</a></li>
+                                <li><a href="https://unistudio.co/html/nerko/main/coming-soon.html">Coming soon</a></li>
+                                <li class="uk-nav-header">Content &amp; Privacy</li>
+                                <li><a href='terms.html'>Terms of use</a></li>
+                                <li><a href="https://unistudio.co/html/nerko/main/privact.html">Privacy Policy</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- Connect wallet modal -->
-        <div id="uni_connect_wallet" class="uk-modal-full" data-uk-modal>
-            <div class="uk-modal-dialog">
-                <div class="uk-position-top uk-position-z-index-negative" data-uk-height-viewport="">
-                    <div class="uk-position-cover uk-background-cover uk-opacity-10 dark:uk-hidden" data-src="../assets/images/gradient-01.png" data-uk-img></div>
-                    <div class="uk-position-cover uk-background-cover uk-opacity-20 uk-hidden dark:uk-visible" data-src="../assets/images/gradient-01.png" data-uk-img></div>
-                </div>
-                <button class="uk-modal-close-full uk-close-large uk-position-small" type="button" data-uk-close></button>
-                <div class="uk-container">
-                    <div class="uk-grid uk-flex-center uk-flex-middle uk-child-width-1-2@m uk-section" data-uk-grid data-uk-height-viewport>
-                        <div>
-                            <div class="uk-panel uk-text-center">
-                                <h2 class="uk-h5 uk-h3@s uk-h2@l uk-margin-remove">Connect your wallet</h2>
-                                <div class="uk-grid uk-grid-xsmall uk-grid-small@m uk-child-width-1-2@m uk-margin-medium-top uk-margin-large-top@m" data-uk-grid="">
-                                    <div>
-                                        <div class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
-                                            <a href="#metamask" class="uk-position-cover"></a>
-                                            <img src="../assets/images/icon-metamask.svg" alt="metamask">
-                                            <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">Metamask</h4>
-                                        </div>
+    <!-- Connect wallet modal -->
+    <div id="uni_connect_wallet" class="uk-modal-full" data-uk-modal>
+        <div class="uk-modal-dialog">
+            <div class="uk-position-top uk-position-z-index-negative" data-uk-height-viewport="">
+                <div class="uk-position-cover uk-background-cover uk-opacity-10 dark:uk-hidden"
+                    data-src="../assets/images/gradient-01.png" data-uk-img></div>
+                <div class="uk-position-cover uk-background-cover uk-opacity-20 uk-hidden dark:uk-visible"
+                    data-src="../assets/images/gradient-01.png" data-uk-img></div>
+            </div>
+            <button class="uk-modal-close-full uk-close-large uk-position-small" type="button" data-uk-close></button>
+            <div class="uk-container">
+                <div class="uk-grid uk-flex-center uk-flex-middle uk-child-width-1-2@m uk-section" data-uk-grid
+                    data-uk-height-viewport>
+                    <div>
+                        <div class="uk-panel uk-text-center">
+                            <h2 class="uk-h5 uk-h3@s uk-h2@l uk-margin-remove">Connect your wallet</h2>
+                            <div class="uk-grid uk-grid-xsmall uk-grid-small@m uk-child-width-1-2@m uk-margin-medium-top uk-margin-large-top@m"
+                                data-uk-grid="">
+                                <div>
+                                    <div
+                                        class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
+                                        <a href="#metamask" class="uk-position-cover"></a>
+                                        <img src="../assets/images/icon-metamask.svg" alt="metamask">
+                                        <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">
+                                            Metamask</h4>
                                     </div>
-                                    <div>
-                                        <div class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
-                                            <a href="#bitgo" class="uk-position-cover"></a>
-                                            <img src="../assets/images/icon-bitgo.svg" alt="bitgo">
-                                            <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">BitGo</h4>
-                                        </div>
+                                </div>
+                                <div>
+                                    <div
+                                        class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
+                                        <a href="#bitgo" class="uk-position-cover"></a>
+                                        <img src="../assets/images/icon-bitgo.svg" alt="bitgo">
+                                        <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">
+                                            BitGo</h4>
                                     </div>
-                                    <div>
-                                        <div class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
-                                            <a href="#trustwallet" class="uk-position-cover"></a>
-                                            <img src="../assets/images/icon-trustwallet.svg" alt="trustwallet">
-                                            <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">Trust Wallet</h4>
-                                        </div>
+                                </div>
+                                <div>
+                                    <div
+                                        class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
+                                        <a href="#trustwallet" class="uk-position-cover"></a>
+                                        <img src="../assets/images/icon-trustwallet.svg" alt="trustwallet">
+                                        <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">
+                                            Trust Wallet</h4>
                                     </div>
-                                    <div>
-                                        <div class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
-                                            <a href="#coinbase" class="uk-position-cover"></a>
-                                            <img src="../assets/images/icon-coinbase.svg" alt="coinbase">
-                                            <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">Coinbase</h4>
-                                        </div>
+                                </div>
+                                <div>
+                                    <div
+                                        class="uk-panel uk-card uk-card-small uk-card-medium@m uk-card-border uk-radius-medium uk-radius-large@m uk-box-shadow-hover-small hover:uk-border-primary">
+                                        <a href="#coinbase" class="uk-position-cover"></a>
+                                        <img src="../assets/images/icon-coinbase.svg" alt="coinbase">
+                                        <h4 class="uk-text-bold uk-h5@m uk-margin-small-top uk-margin-medium-top@m">
+                                            Coinbase</h4>
                                     </div>
                                 </div>
                             </div>
@@ -164,183 +181,224 @@
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- Wrapper start -->
-        <div class="wrap">
+    <!-- Wrapper start -->
+    <div class="wrap">
 
-            <!-- Header start -->
-            <header class="uni-header uk-position-top">
-                <div class="uni-header-navbar" data-uk-sticky="top: 70; show-on-up: false; animation: uk-animation-slide-top" data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 0;">
-                    <div class="uk-container">
-                        <nav class="uk-navbar uk-navbar-container uk-navbar-transparent" data-uk-navbar>
-                            <div class="uk-navbar-top">
-                                <div class="uk-navbar-left">
-                                    <a class='uk-logo uk-navbar-item uk-h4 uk-h3@m uk-margin-remove' href='#'>
-                                        <img class="uk-visible dark:uk-hidden" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
-                                        <img class="uk-hidden dark:uk-visible" width="120" src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
+        <!-- Header start -->
+        <header class="uni-header uk-position-top">
+            <div class="uni-header-navbar"
+                data-uk-sticky="top: 70; show-on-up: false; animation: uk-animation-slide-top"
+                data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 0;">
+                <div class="uk-container">
+                    <nav class="uk-navbar uk-navbar-container uk-navbar-transparent" data-uk-navbar>
+                        <div class="uk-navbar-top">
+                            <div class="uk-navbar-left">
+                                <a class='uk-logo uk-navbar-item uk-h4 uk-h3@m uk-margin-remove' href='#'>
+                                    <img class="uk-visible dark:uk-hidden" width="120"
+                                        src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
+                                    <img class="uk-hidden dark:uk-visible" width="120"
+                                        src="assets/images/custom/full logo.png" alt="Nerko" loading="lazy">
+                                </a>
+                            </div>
+
+                            <div class="uk-navbar-right uk-flex-1 uk-flex-right">
+                                <ul class="uk-navbar-nav dark:uk-text-gray-10 uk-visible@m"
+                                    data-uk-scrollspy-nav="closest: li; scroll: true; offset: 80" data-uk-navbar-bound>
+                                    <!-- <li><a href="#">Minting</a></li> -->
+                                    <li><a href="#about">About Us</a></li>
+                                    <li><a href="#service">Services</a></li>
+                                    <li><a href="#partnership">Partnership</a></li>
+                                    <li><a href="#contact">Contact Us</a></li>
+                                </ul>
+                                <div class="uk-navbar-item">
+                                    <ul class="uk-subnav uk-subnav-small uk-visible@m">
+                                        <li>
+                                            <a href="#"><i class="uk-icon uk-icon-medium unicon-logo-linkedin"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="#"><i class="uk-icon uk-icon-medium unicon-logo-instagram"></i></a>
+                                        </li>
+                                    </ul>
+
+                                    <!-- header: call to actions -->
+                                    <a href="#"
+                                        class="uk-button uk-button-medium@m uk-button-default uk-button-outline uk-margin-left uk-visible@l">
+                                        <span>Agency Name</span>
                                     </a>
                                 </div>
 
-                                <div class="uk-navbar-right uk-flex-1 uk-flex-right">
-                                    <ul class="uk-navbar-nav dark:uk-text-gray-10 uk-visible@m" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 80" data-uk-navbar-bound>
-                                        <!-- <li><a href="#">Minting</a></li> -->
-                                        <li><a href="#about">About Us</a></li>
-                                        <li><a href="#service">Services</a></li>
-                                        <li><a href="#partnership">Partnership</a></li>
-                                        <li><a href="#contact">Contact Us</a></li>
-                                    </ul>
-                                    <div class="uk-navbar-item">
-                                        <ul class="uk-subnav uk-subnav-small uk-visible@m">
-                                            <li>
-                                                <a href="#"><i class="uk-icon uk-icon-medium unicon-logo-linkedin"></i></a>
-                                            </li>
-                                            <li>
-                                                <a href="#"><i class="uk-icon uk-icon-medium unicon-logo-instagram"></i></a>
-                                            </li>
-                                        </ul>
-
-                                        <!-- header: call to actions -->
-                                        <a href="#" class="uk-button uk-button-medium@m uk-button-default uk-button-outline uk-margin-left uk-visible@l">
-                                            <span>Agency Name</span>
-                                        </a>
-                                    </div>
-
-                                    <!-- Mobile Menu Toggle Button -->
-                                    <div class="uk-navbar-item uk-hidden@m">
-                                        <a href="#" data-uk-toggle="target: #mobile-menu; animation: uk-animation-slide-top-medium">
-                                            <span class="uk-icon uk-icon-medium material-icons">menu</span>
-                                        </a>
-                                    </div>
+                                <!-- Mobile Menu Toggle Button -->
+                                <div class="uk-navbar-item uk-hidden@m">
+                                    <a href="#"
+                                        data-uk-toggle="target: #mobile-menu; animation: uk-animation-slide-top-medium">
+                                        <span class="uk-icon uk-icon-medium material-icons">menu</span>
+                                    </a>
                                 </div>
                             </div>
-                        </nav>
-                    </div>
-                </div>
-            </header>
-
-            <!-- Mobile Menu -->
-            <div id="mobile-menu" class="uk-navbar-container uk-navbar-transparent uk-hidden@m" data-uk-offcanvas="mode: push; overlay: true;">
-                <div class="uk-offcanvas-bar" style="background-color: #332A3F;">
-                    <!-- List of menu items -->
-                    <ul class="uk-nav uk-nav-default">
-                        <li><a href="#about" >About Us</a></li>
-                        <li><a href="#service">Services</a></li>
-                        <li><a href="#partnership">Partnership</a></li>
-                        <li><a href="#contact">Contact Us</a></li>
-                    </ul>
+                        </div>
+                    </nav>
                 </div>
             </div>
-            <!-- Header end -->
+        </header>
 
-            <!-- Hero start -->
-            <div id="uni_hero" class="uni-hero uk-section uk-section-xlarge uk-padding-remove-bottom uk-panel">
-                <div class="uk-position-top uk-position-z-index-negative uk-overflow-hidden uk-blend-overlay" data-uk-height-viewport="">
-                    <img class="uk-position-top-left uk-position-fixed uk-blur-large" style="left: -4%; top: -4%" width="500" src="../assets/images/gradient-circle.svg" alt="Circle">
-                    <img class="uk-position-bottom-right uk-position-fixed uk-blur-large" style="right: -4%; bottom: -4%" width="500" src="../assets/images/gradient-circle.svg" alt="Circle">
-                </div>
-                <div class="uk-position-top uk-position-z-index-negative" data-uk-height-viewport="">
-                    <div class="uk-position-cover uk-background-cover uk-opacity-10 dark:uk-hidden" data-src="../assets/images/gradient-01.png" data-uk-img></div>
-                    <div class="uk-position-cover uk-background-cover uk-opacity-20 uk-hidden dark:uk-visible" data-src="../assets/images/gradient-01.png" data-uk-img></div>
-                </div>
-                <div class="uk-panel uk-position-z-index" style="margin-top: 70px;">
-                    <div class="uk-container">
-                        <div class="uk-panel">
-                            <div class="uk-grid uk-grid-2xlarge uk-flex-middle uk-flex-between" data-uk-grid data-uk-height-viewport="offset-top: true; offset-bottom: 20;">
-                                <div class="uk-width-5-12@m">
-                                    <div class="uk-panel uk-position-z-index uk-text-center uk-text-left@m" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                                        <img class="uk-position-top-left" width="44" src="../assets/images/objects/ethereum-01.png" alt="object" style="top: -20%; left: 50%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 400;">
-                                        <img class="uk-position-left" width="16" src="../assets/images/objects/circle-01.png" alt="object" style="top: 16%; left: -16%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 420;">
-                                        <img class="uk-position-bottom-left" width="24" src="../assets/images/objects/circle-03.png" alt="object" style="bottom: -16%; left: 16%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 440;">
-                                        <h6 class="uk-margin-small uk-margin@m custom-heading">
-                                            CreatorFlame Where Creators Shine and Brands Grow Bigger ✨
-                                        </h6>
-                                        <p class="uk-text-xlarge uk-width-xlarge@m uk-text-muted">Guaranteed Results For Brands & Guaranteed Outreach for Creators at CreatorFlame.</p>
-                                        <a href="#" style="background: linear-gradient(45deg, orange, yellow);" class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
-                                            <span style="color: black;">I'm a brand</span>
-                                        </a>
-                                        <a href="#" style="background: linear-gradient(45deg, orange, yellow); margin-left: 32px;" class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
-                                            <span style="color: black;">I'm a influencer</span>
-                                        </a>
-                                    </div>
-                                    <div class="dotted-line" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                                        <img src="assets/images/dotted-line-removebg-preview.png" alt="dotted-line-img" class="dotted-line-img">
-                                    </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="uk-navbar-container uk-navbar-transparent uk-hidden@m"
+            data-uk-offcanvas="mode: push; overlay: true;">
+            <div class="uk-offcanvas-bar" style="background-color: #332A3F;">
+                <!-- List of menu items -->
+                <ul class="uk-nav uk-nav-default">
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#service">Services</a></li>
+                    <li><a href="#partnership">Partnership</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Header end -->
+
+        <!-- Hero start -->
+        <div id="uni_hero" class="uni-hero uk-section uk-section-xlarge uk-padding-remove-bottom uk-panel">
+            <div class="uk-position-top uk-position-z-index-negative uk-overflow-hidden uk-blend-overlay"
+                data-uk-height-viewport="">
+                <img class="uk-position-top-left uk-position-fixed uk-blur-large" style="left: -4%; top: -4%"
+                    width="500" src="../assets/images/gradient-circle.svg" alt="Circle">
+                <img class="uk-position-bottom-right uk-position-fixed uk-blur-large" style="right: -4%; bottom: -4%"
+                    width="500" src="../assets/images/gradient-circle.svg" alt="Circle">
+            </div>
+            <div class="uk-position-top uk-position-z-index-negative" data-uk-height-viewport="">
+                <div class="uk-position-cover uk-background-cover uk-opacity-10 dark:uk-hidden"
+                    data-src="../assets/images/gradient-01.png" data-uk-img></div>
+                <div class="uk-position-cover uk-background-cover uk-opacity-20 uk-hidden dark:uk-visible"
+                    data-src="../assets/images/gradient-01.png" data-uk-img></div>
+            </div>
+            <div class="uk-panel uk-position-z-index" style="margin-top: 70px;">
+                <div class="uk-container">
+                    <div class="uk-panel">
+                        <div class="uk-grid uk-grid-2xlarge uk-flex-middle uk-flex-between" data-uk-grid
+                            data-uk-height-viewport="offset-top: true; offset-bottom: 20;">
+                            <div class="uk-width-5-12@m">
+                                <div class="uk-panel uk-position-z-index uk-text-center uk-text-left@m"
+                                    data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                                    <img class="uk-position-top-left" width="44"
+                                        src="../assets/images/objects/ethereum-01.png" alt="object"
+                                        style="top: -20%; left: 50%"
+                                        data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 400;">
+                                    <img class="uk-position-left" width="16"
+                                        src="../assets/images/objects/circle-01.png" alt="object"
+                                        style="top: 16%; left: -16%"
+                                        data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 420;">
+                                    <img class="uk-position-bottom-left" width="24"
+                                        src="../assets/images/objects/circle-03.png" alt="object"
+                                        style="bottom: -16%; left: 16%"
+                                        data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 440;">
+                                    <h6 class="uk-margin-small uk-margin@m custom-heading">
+                                        CreatorFlame Where Creators Shine and Brands Grow Bigger ✨
+                                    </h6>
+                                    <p class="uk-text-xlarge uk-width-xlarge@m uk-text-muted">Guaranteed Results For
+                                        Brands & Guaranteed Outreach for Creators at CreatorFlame.</p>
+                                    <a href="#" style="background: linear-gradient(45deg, orange, yellow);"
+                                        class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
+                                        <span style="color: black;">I'm a brand</span>
+                                    </a>
+                                    <a href="#"
+                                        style="background: linear-gradient(45deg, orange, yellow); margin-left: 32px;"
+                                        class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
+                                        <span style="color: black;">I'm a influencer</span>
+                                    </a>
                                 </div>
-                                
-                                <div class="uk-width-6-12@m uk-flex-center">
-                                    <div class="uk-panel" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 200;">
-                                        <!-- <img class="uk-position-left uk-text-primary" width="44" src="../assets/images/objects/bitcoin-01.png" alt="object" style="top: 75%; left: -20%" data-uk-svg="" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 460;"> -->
-                                        <!-- <img class="uk-position-right" width="28" src="../assets/images/objects/x.png" alt="object" style="top: -4%; right: 16%" data-uk-svg="" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 480;">
+                                <div class="dotted-line"
+                                    data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                                    <img src="assets/images/dotted-line-removebg-preview.png" alt="dotted-line-img"
+                                        class="dotted-line-img">
+                                </div>
+                            </div>
+
+                            <div class="uk-width-6-12@m uk-flex-center">
+                                <div class="uk-panel"
+                                    data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 200;">
+                                    <!-- <img class="uk-position-left uk-text-primary" width="44" src="../assets/images/objects/bitcoin-01.png" alt="object" style="top: 75%; left: -20%" data-uk-svg="" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 460;"> -->
+                                    <!-- <img class="uk-position-right" width="28" src="../assets/images/objects/x.png" alt="object" style="top: -4%; right: 16%" data-uk-svg="" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 480;">
                                         <img class="uk-position-right uk-opacity-10" width="300" src="../assets/images/blob-dashed.svg" alt="Blog dashed" style="top: -10%; right: 16%; fill: transparent" data-uk-svg=""> -->
-                                        <!-- <svg style="top: -20%" class="uk-position-right uk-opacity-30" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                    <!-- <svg style="top: -20%" class="uk-position-right uk-opacity-30" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path fill="yellow" d="M47.5,-67.2C55.9,-59.3,53.2,-37.9,56.7,-20.1C60.2,-2.3,69.9,11.8,70.8,27.3C71.7,42.9,63.8,59.9,50.6,64.4C37.3,68.9,18.6,60.8,-0.3,61.2C-19.3,61.6,-38.6,70.7,-53.5,66.7C-68.4,62.8,-78.9,45.9,-78.8,29.5C-78.7,13.2,-67.9,-2.7,-59.8,-16.8C-51.6,-31,-46,-43.3,-36.5,-50.9C-27,-58.4,-13.5,-61.1,3,-65.2C19.6,-69.4,39.1,-75.1,47.5,-67.2Z" transform="translate(100 100)">
                                         </svg> -->
-                                        
-                                        <!-- VERICLE VIDEO CAROUSEL STARTS HERE -->
-                                        <div class="uk-grid uk-grid-xsmall uk-child-width-1-2" data-uk-grid="masonry: true;">
-                                            <!-- Main Video First (Bottom to Top) -->
-                                            <div class="main-video-first fixed-height-scroll">
-                                                <div class="video-container-scroll first-scroll" id="first-scroll">
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-01.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-02.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-03.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-04.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        
-                                            <!-- Main Video Second (Top to Bottom) -->
-                                            <div class="main-video-second fixed-height-scroll">
-                                                <div class="video-container-scroll second-scroll" id="second-scroll">
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-05.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-06.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-07.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                    <div class="video-wrapper">
-                                                        <video class="uk-radius-small uk-radius-large@m" autoplay muted loop>
-                                                            <source src="assets/videos/video-01.mp4" type="video/mp4">
-                                                            Your browser does not support the video tag.
-                                                        </video>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>                                                                                                                 
-                                        <!-- VERICLE VIDEO CAROUSEL ENDS HERE -->
 
-                                        <!-- <a class="uni-circle-text uk-background-white dark:uk-background-gray-80 uk-box-shadow-large uk-visible@m" href="#view_in_opensea" style="background-color: #332A3F !important">
+                                    <!-- VERICLE VIDEO CAROUSEL STARTS HERE -->
+                                    <div class="uk-grid uk-grid-xsmall uk-child-width-1-2"
+                                        data-uk-grid="masonry: true;">
+                                        <!-- Main Video First (Bottom to Top) -->
+                                        <div class="main-video-first fixed-height-scroll">
+                                            <div class="video-container-scroll first-scroll" id="first-scroll">
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-01.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-02.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-03.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-04.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Main Video Second (Top to Bottom) -->
+                                        <div class="main-video-second fixed-height-scroll">
+                                            <div class="video-container-scroll second-scroll" id="second-scroll">
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-05.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-06.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-07.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                                <div class="video-wrapper">
+                                                    <video class="uk-radius-small uk-radius-large@m" autoplay muted
+                                                        loop>
+                                                        <source src="assets/videos/video-01.mp4" type="video/mp4">
+                                                        Your browser does not support the video tag.
+                                                    </video>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- VERICLE VIDEO CAROUSEL ENDS HERE -->
+
+                                    <!-- <a class="uni-circle-text uk-background-white dark:uk-background-gray-80 uk-box-shadow-large uk-visible@m" href="#view_in_opensea" style="background-color: #332A3F !important">
                                             <svg class="uni-circle-text-path uk-text-secondary uni-animation-spin" viewBox="0 0 100 100" width="120" height="120">
                                                 <defs>
                                                     <path id="circle" d="M 50, 50 m -37, 0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0">
@@ -351,17 +409,17 @@
                                             </svg>
                                             <i class="uk-position-center uk-text-secondary uk-icon-medium@m unicon-arrow-up-right uk-text-bold"></i>
                                         </a> -->
-                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
 
-            <!-- Hero end -->
+        <!-- Hero end -->
 
-            <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 100;">
+        <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 100;">
 
             <section id="">
                 <div id="uni_minting" class="uni-minting uk-section uk-section-xlarge@m uk-panel">
@@ -446,14 +504,14 @@
                     </div>
                 </div>
             </section> -->
-            
 
-            <!-- how to mint end -->
 
-            <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
+        <!-- how to mint end -->
 
-            <!-- numbers start -->
-            <!-- <div id="uni_numbers" class="uni-numbers uk-section uk-section-large@m">
+        <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
+
+        <!-- numbers start -->
+        <!-- <div id="uni_numbers" class="uni-numbers uk-section uk-section-large@m">
                 <div class="uk-container">
                     <div class="uk-panel">
                         <img class="uk-position-bottom-left uk-text-secondary uni-animation-delay-large" width="100" height="100" src="../assets/images/objects/bitcoin-01.png" alt="Object" style="bottom: -32%; left: 30%; margin-top: 20%;" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: -250; delay: 200;">
@@ -481,63 +539,83 @@
                     </div>
                 </div>
             </div> -->
-            <!-- numbers end -->
+        <!-- numbers end -->
 
 
-            <!-- numbers end -->
+        <!-- numbers end -->
 
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 400;">
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 400;">
 
-            <!-- BRAND THAT TRUST US STARTS HERE -->
-            <section id="partnership">
-                <div id="uni_about" class="uni-about uk-section uk-section-xlarge@m uk-panel">
-                    <div class="uk-container">
-                        <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                            <div class="uk-panel uk-text-center">
-                                <h2 class="uk-h3 uk-h1@m"><span style="background: linear-gradient(45deg, orange, yellow); 
+        <!-- BRAND THAT TRUST US STARTS HERE -->
+        <section id="partnership">
+            <div id="uni_about" class="uni-about uk-section uk-section-xlarge@m uk-panel">
+                <div class="uk-container">
+                    <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid
+                        data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                        <div class="uk-panel uk-text-center">
+                            <h2 class="uk-h3 uk-h1@m"><span style="background: linear-gradient(45deg, orange, yellow); 
                                     padding: 0em 0.1em; 
                                     border-radius: 10px; 
                                     color: black;">Brands</span> That Trust Us</h2>
-                            </div>
-                        </header>
+                        </div>
+                    </header>
 
-                        <!-- brands start -->
-                        <div class="brand-slider-container uk-padding-3xlarge-top uk-padding-medium-bottom uk-padding-remove-top@m uk-padding-xlarge-bottom@m uk-panel uk-overflow-hidden brand-class">
-                            <div class="uk-container uk-container-small">
-                                <div class="uk-panel uk-text-center dark:uk-text-white">
-                                    <header class="uk-panel uk-flex-center uk-flex-middle uk-text-center">
-                                        <!-- Header content if needed -->
-                                    </header>
+                    <!-- brands start -->
+                    <div
+                        class="brand-slider-container uk-padding-3xlarge-top uk-padding-medium-bottom uk-padding-remove-top@m uk-padding-xlarge-bottom@m uk-panel uk-overflow-hidden brand-class">
+                        <div class="uk-container uk-container-small">
+                            <div class="uk-panel uk-text-center dark:uk-text-white">
+                                <header class="uk-panel uk-flex-center uk-flex-middle uk-text-center">
+                                    <!-- Header content if needed -->
+                                </header>
 
-                                    <!-- Moving Bar with Brand Logos -->
-                                    <div class="brand-slider-wrapper">
-                                        <div class="brand-slider">
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/unacademy-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Hollyland-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/clippet-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Olymptrade-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/wondershare-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Vision11-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/khiladiadda-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Sportsbazzi-logo.png" alt="Logo-Img"></div>
+                                <!-- Moving Bar with Brand Logos -->
+                                <div class="brand-slider-wrapper">
+                                    <div class="brand-slider">
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/unacademy-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Hollyland-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/clippet-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Olymptrade-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/wondershare-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Vision11-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/khiladiadda-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Sportsbazzi-logo.png" alt="Logo-Img"></div>
 
-                                            <!-- Duplicate set for seamless scrolling -->
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/unacademy-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Hollyland-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/clippet-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Olymptrade-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/wondershare-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Vision11-logo.jpg" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/khiladiadda-logo.png" alt="Logo-Img"></div>
-                                            <div class="brand-item"><img class="uk-width-xsmall" src="assets/images/brands/Sportsbazzi-logo.png" alt="Logo-Img"></div>
-                                        </div>
+                                        <!-- Duplicate set for seamless scrolling -->
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/unacademy-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Hollyland-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/clippet-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Olymptrade-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/wondershare-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Vision11-logo.jpg" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/khiladiadda-logo.png" alt="Logo-Img"></div>
+                                        <div class="brand-item"><img class="uk-width-xsmall"
+                                                src="assets/images/brands/Sportsbazzi-logo.png" alt="Logo-Img"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- brands end -->
+                    </div>
+                    <!-- brands end -->
 
-                        <!-- <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
+                    <!-- <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
                             <div class="uk-grid uk-grid-2xlarge uk-grid-3xlarge@m uk-child-width-1-1" data-uk-grid="">
                                 <div>
                                     <div class="uk-panel">
@@ -621,75 +699,82 @@
                                 </div>
                             </div>
                         </div>                     -->
-                    </div>
                 </div>
-            </section>
-            <!-- BRAND THAT TRUST US ENDS HERE -->
+            </div>
+        </section>
+        <!-- BRAND THAT TRUST US ENDS HERE -->
 
 
 
-            <!-- about end -->
+        <!-- about end -->
 
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;" style="margin-top: -20px;">
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;" style="margin-top: -20px;">
 
-            <!-- Our Exclusive Talent Starts Here -->
-            <section>
-                    <div id="uni_collection" class="uni-collection uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
-                        <div class="uk-container">
-                            <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid">
-                                <div class="uk-panel">
-                                    <h2 class="uk-h3 uk-h1@m">Our Exclusive Talent</h2>
+        <!-- Our Exclusive Talent Starts Here -->
+        <section>
+            <div id="uni_collection"
+                class="uni-collection uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
+                <div class="uk-container">
+                    <header
+                        class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid">
+                        <div class="uk-panel">
+                            <h2 class="uk-h3 uk-h1@m">Our Exclusive Talent</h2>
+                        </div>
+                    </header>
+
+                    <!-- Cards Row -->
+                    <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
+                        <div class="scroll-container">
+                            <div class="scroll-content">
+                                <!-- Original Cards -->
+                                <div class="card">
+                                    <img src="assets/images/teams/01.jpg" style="height: 310px;" alt="Nilesh Patil">
+                                    <h3 style="color: black !important;">Nilesh Patil</h3>
+                                    <span style="color: black !important;">292K Followers</span>
                                 </div>
-                            </header>
-
-                            <!-- Cards Row -->
-                            <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
-                                <div class="scroll-container">
-                                    <div class="scroll-content">
-                                        <!-- Original Cards -->
-                                        <div class="card">
-                                            <img src="assets/images/teams/01.jpg" style="height: 310px;" alt="Nilesh Patil">
-                                            <h3 style="color: black !important;">Nilesh Patil</h3>
-                                            <span style="color: black !important;">292K Followers</span>
-                                        </div>
-                                        <div class="card">
-                                            <img src="assets/images/teams/02.jpg" style="height: 310px;" alt="Bhanu Tomar">
-                                            <h3 style="color: black !important;">Bhanu Tomar</h3>
-                                            <span style="color: black !important;">112K Followers</span>
-                                        </div>
-                                        <div class="card">
-                                            <img src="assets/images/teams/03.jpg" style="height: 310px;" alt="Harsh Rajput">
-                                            <h3 style="color: black !important;">Harsh Rajput</h3>
-                                            <span style="color: black !important;">746K Followers</span>
-                                        </div>
-                                        <div class="card">
-                                            <img src="assets/images/teams/04.jpg" style="height: 310px;" alt="Rahul Vishwakarma">
-                                            <h3 style="color: black !important;">Rahul Vishwakarma</h3>
-                                            <span style="color: black !important;">351K Followers</span>
-                                        </div>
-                                        <div class="card">
-                                            <img src="assets/images/teams/05.JPG" style="height: 310px;" alt="Udit Purviya">
-                                            <h3 style="color: black !important;">Udit Purviya</h3>
-                                            <span style="color: black !important;">740K Followers</span>
-                                        </div>
-                                        <div class="card">
-                                            <img src="assets/images/teams/06.JPG" style="height: 310px;" alt="Ajay Kumar">
-                                            <h3 style="color: black !important;">Ajay Kumar</h3>
-                                            <span style="color: black !important;">547K Followers</span>
-                                        </div>
-                                    </div>
+                                <div class="card">
+                                    <img src="assets/images/teams/02.jpg" style="height: 310px;" alt="Bhanu Tomar">
+                                    <h3 style="color: black !important;">Bhanu Tomar</h3>
+                                    <span style="color: black !important;">112K Followers</span>
+                                </div>
+                                <div class="card">
+                                    <img src="assets/images/teams/03.jpg" style="height: 310px;" alt="Harsh Rajput">
+                                    <h3 style="color: black !important;">Harsh Rajput</h3>
+                                    <span style="color: black !important;">746K Followers</span>
+                                </div>
+                                <div class="card">
+                                    <img src="assets/images/teams/04.jpg" style="height: 310px;"
+                                        alt="Rahul Vishwakarma">
+                                    <h3 style="color: black !important;">Rahul Vishwakarma</h3>
+                                    <span style="color: black !important;">351K Followers</span>
+                                </div>
+                                <div class="card">
+                                    <img src="assets/images/teams/05.JPG" style="height: 310px;" alt="Udit Purviya">
+                                    <h3 style="color: black !important;">Udit Purviya</h3>
+                                    <span style="color: black !important;">740K Followers</span>
+                                </div>
+                                <div class="card">
+                                    <img src="assets/images/teams/06.JPG" style="height: 310px;" alt="Ajay Kumar">
+                                    <h3 style="color: black !important;">Ajay Kumar</h3>
+                                    <span style="color: black !important;">547K Followers</span>
                                 </div>
                             </div>
-                            <!-- Cards Row End -->
                         </div>
                     </div>
-            </section>
-            <!-- Our Exclusive Talent Ends Here -->
+                    <!-- Cards Row End -->
+                </div>
+            </div>
+        </section>
+        <!-- Our Exclusive Talent Ends Here -->
 
-            <!-- Services Section start here -->
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+        <!-- Services Section start here -->
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
 
-            <!-- <section id="service">
+        <!-- <section id="service">
                 <div id="uni_roadmap" class="uni-roadmap uk-section uk-section-large@m uk-padding-3xlarge-bottom@m uk-panel uk-overflow-hidden swiper-parent">
                     <div class="uk-container">
                         <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
@@ -807,119 +892,162 @@
                 </div>
             </section> -->
 
-            <section id="service">
-                <div class="custom-service-section uk-section uk-section-large@m uk-padding-3xlarge-bottom@m uk-panel uk-overflow-hidden">
-                    <div class="uk-container">
-                        <!-- Section Heading -->
-                        <header class="uk-text-center">
-                            <h2 class="uk-h3 uk-h1@m">Our Services</h2>
-                        </header>
-            
-                        <!-- Content Wrapper -->
-                        <div class="custom-service-wrapper uk-grid-large uk-flex-middle uk-child-width-1-3@m uk-grid" style="margin-top: 70px;" data-uk-grid>
-                            
-                            <!-- Left Side Content (Influencer Marketing) -->
-                            <div class="custom-service-content" data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
-                                <h4 class="uk-h4 uk-h2@m uk-text-gradient" style="font-size: 52px !important;">Influencer Marketing</h4>
-                                <p><strong>Grow Your Brand with Influencer Marketing</strong></p>
-                                <p>We specialize in driving measurable ROI by utilizing data-driven strategies and influencer collaborations tailored to your brand vision. Our expertise ensures impactful campaigns that not only increase your brand’s visibility but also foster authentic connections with your target audience.</p>
-                            </div>
-            
-                            <!-- Center Image -->
-                            <div class="custom-service-image uk-text-center">
-                                <img src="https://placehold.co/300x400" alt="Service Image" class="uk-border-rounded">
-                            </div>
-            
-                            <!-- Right Side Content (Talent Management) -->
-                            <div class="custom-service-content" data-anime="opacity:[0, 1]; translateX:[30, 0]; onview: true; delay: 300;">
-                                <h3 class="uk-h4 uk-h2@m uk-text-gradient" style="font-size: 52px !important;">Talent Management</h3>
-                                <p><strong>Empowering Influencers to Achieve Their Full Potential</strong></p>
-                                <p>Our talent management services nurture aspiring influencers to excel in their craft while connecting them with premium brand opportunities. Through personalized guidance and strategic collaborations, we ensure career growth and impactful brand partnerships for our talent.</p>
-                            </div>
-            
-                        </div>
-                    </div>
-                </div>
-            </section>            
-            <!-- Services Section ends here -->
-
-            <!-- why work with us starts here  -->
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-
-            <section id="why-work">
-                <div id="uni_numbers" class="uni-numbers uk-section uk-section-large@m">
-                    <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                        <div class="uk-panel">
-                            <h2 class="uk-h3 uk-h1@m">Why You Work With Us</h2>
-                        </div>
+        <section id="service">
+            <div
+                class="custom-service-section uk-section uk-section-large@m uk-padding-3xlarge-bottom@m uk-panel uk-overflow-hidden">
+                <div class="uk-container">
+                    <!-- Section Heading -->
+                    <header class="uk-text-center">
+                        <h2 class="uk-h3 uk-h1@m">Our Services</h2>
                     </header>
-                    
-                    <!-- Adding the <p> tag with uk-container and proper padding -->
-                    <div class="uk-container">
-                        <p class="uk-text-center uk-text-muted uk-margin-top" style="padding-left: 20px; padding-right: 20px;font-size: 30px;" data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
-                            We believe in creating impactful connections that drive real value for both creators and brands. Our team excels in understanding client needs, curating tailored strategies, and delivering measurable outcomes. With a focus on trust, innovation, and growth, we help businesses unlock their potential through influencer collaborations that resonate deeply with audiences.
-                        </p>
+
+                    <!-- Content Wrapper -->
+                    <div class="custom-service-wrapper uk-grid-large uk-flex-middle uk-child-width-1-3@m uk-grid"
+                        style="margin-top: 70px;" data-uk-grid>
+
+                        <!-- Left Side Content (Influencer Marketing) -->
+                        <div class="custom-service-content"
+                            data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
+                            <h4 class="uk-h4 uk-h2@m uk-text-gradient custom-influencer-heading">Influencer Marketing
+                            </h4>
+                            <p><strong>Grow Your Brand with Influencer Marketing</strong></p>
+                            <p>We specialize in driving measurable ROI by utilizing data-driven strategies and
+                                influencer collaborations tailored to your brand vision. Our expertise ensures impactful
+                                campaigns that not only increase your brand’s visibility but also foster authentic
+                                connections with your target audience.</p>
+                        </div>
+
+                        <!-- Center Image -->
+                        <div class="custom-service-image uk-text-center">
+                            <img src="https://placehold.co/300x400" alt="Service Image" class="uk-border-rounded">
+                        </div>
+
+                        <!-- Right Side Content (Talent Management) -->
+                        <div class="custom-service-content"
+                            data-anime="opacity:[0, 1]; translateX:[30, 0]; onview: true; delay: 300;">
+                            <h3 class="uk-h4 uk-h2@m uk-text-gradient custom-talent-heading">Talent Management</h3>
+                            <p><strong>Empowering Influencers to Achieve Their Full Potential</strong></p>
+                            <p>Our talent management services nurture aspiring influencers to excel in their craft while
+                                connecting them with premium brand opportunities. Through personalized guidance and
+                                strategic collaborations, we ensure career growth and impactful brand partnerships for
+                                our talent.</p>
+                        </div>
+
                     </div>
-            
-                    <div class="uk-container" style="margin-top: 40px;">
-                        <div class="uk-panel">
-                            <img class="uk-position-bottom-left uk-text-secondary uni-animation-delay-large" width="100" height="100" src="../assets/images/objects/bitcoin-01.png" alt="Object" style="bottom: -32%; left: 30%; margin-top: 20%;" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: -250; delay: 200;">
-                            <img class="uk-position-top-right" width="24" src="../assets/images/objects/ethereum-01.png" alt="Object" style="top: -25%; right: 25%" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: -250; delay: 200;">
-                            <div class="uk-grid uk-grid-large uk-grid-2xlarge@m uk-child-width-expand@m uk-text-center uk-text-muted" data-uk-grid="" data-anime="targets: > *; opacity:[0, 1]; scale:[0.5, 1]; onview: -250; delay: anime.stagger(100);">
-                                <div>
-                                    <div class="uk-panel">
-                                        <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">5000+</h4>
-                                        <span>Influencers</span>
-                                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Services Section ends here -->
+
+        <!-- why work with us starts here  -->
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+
+        <section id="why-work">
+            <div id="uni_numbers" class="uni-numbers uk-section uk-section-large@m">
+                <header
+                    class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid"
+                    data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                    <div class="uk-panel">
+                        <h2 class="uk-h3 uk-h1@m">Why You Work With Us</h2>
+                    </div>
+                </header>
+
+                <!-- Adding the <p> tag with uk-container and proper padding -->
+                <div class="uk-container">
+                    <p class="uk-text-center uk-text-muted uk-margin-top"
+                        style="padding-left: 20px; padding-right: 20px;font-size: 30px;"
+                        data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
+                        We believe in creating impactful connections that drive real value for both creators and brands.
+                        Our team excels in understanding client needs, curating tailored strategies, and delivering
+                        measurable outcomes. With a focus on trust, innovation, and growth, we help businesses unlock
+                        their potential through influencer collaborations that resonate deeply with audiences.
+                    </p>
+                </div>
+
+                <div class="uk-container" style="margin-top: 40px;">
+                    <div class="uk-panel">
+                        <img class="uk-position-bottom-left uk-text-secondary uni-animation-delay-large" width="100"
+                            height="100" src="../assets/images/objects/bitcoin-01.png" alt="Object"
+                            style="bottom: -32%; left: 30%; margin-top: 20%;"
+                            data-anime="opacity:[0, 1]; scale:[0, 1]; onview: -250; delay: 200;">
+                        <img class="uk-position-top-right" width="24" src="../assets/images/objects/ethereum-01.png"
+                            alt="Object" style="top: -25%; right: 25%"
+                            data-anime="opacity:[0, 1]; scale:[0, 1]; onview: -250; delay: 200;">
+                        <div class="uk-grid uk-grid-large uk-grid-2xlarge@m uk-child-width-expand@m uk-text-center uk-text-muted"
+                            data-uk-grid=""
+                            data-anime="targets: > *; opacity:[0, 1]; scale:[0.5, 1]; onview: -250; delay: anime.stagger(100);">
+                            <div>
+                                <div class="uk-panel">
+                                    <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">
+                                        5000+</h4>
+                                    <span>Influencers</span>
                                 </div>
-                                <div>
-                                    <div class="uk-panel">
-                                        <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">50+</h4>
-                                        <span>Brands</span>
-                                    </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel">
+                                    <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">50+
+                                    </h4>
+                                    <span>Brands</span>
                                 </div>
-                                <div>
-                                    <div class="uk-panel">
-                                        <!-- Correcting 200M+ -->
-                                        <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m" style="font-size: 67px !important;">200M+</h4>
-                                        <span>Reach</span>
-                                    </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel">
+                                    <!-- Correcting 200M+ -->
+                                    <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m"
+                                        style="font-size: 67px !important;">200M+</h4>
+                                    <span>Reach</span>
                                 </div>
-                                <div>
-                                    <div class="uk-panel">
-                                        <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">4x</h4>
-                                        <span>ROI Engagement</span>
-                                    </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel">
+                                    <h4 class="uk-h3 uk-heading-d3@m uk-text-gradient uk-margin-xsmall uk-margin@m">4x
+                                    </h4>
+                                    <span>ROI Engagement</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
-            
-            
-            
-            <!-- why work with us ends here  -->
+            </div>
+        </section>
 
-            <!-- about us start here -->
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-             <section id="about">
-                <div id="uni_about" class="uni-about uk-section uk-section-xlarge@m uk-panel">
-                    <div class="uk-container">
-                        <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                            <div class="uk-panel uk-text-center">
-                                <h2 class="uk-h3 uk-h1@m"><span style="background: linear-gradient(45deg, orange, yellow); 
+
+
+        <!-- why work with us ends here  -->
+
+        <!-- about us start here -->
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+        <section id="about">
+            <div id="uni_about" class="uni-about uk-section uk-section-xlarge@m uk-panel">
+                <div class="uk-container">
+                    <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid
+                        data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                        <div class="uk-panel uk-text-center">
+                            <h2 class="uk-h3 uk-h1@m"><span style="background: linear-gradient(45deg, orange, yellow); 
                                     padding: 0em 0.1em; 
                                     border-radius: 10px; 
                                     color: black;">About</span> Us</h2>
-                            </div>
-                        </header>
-                        <div class="uk-container" style="margin-top: 30px;">
-                            <p class="uk-text-center uk-text-muted uk-margin-top" style="padding-left: 20px; padding-right: 20px;font-size: 30px;" data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
-                                CreatorsFlame is a dynamic influencer marketing and talent management agency, committed to bridging brands and creators through impactful partnerships. Our expertise lies in designing innovative strategies, managing top-tier talent, and delivering exceptional results. With a deep understanding of audience behavior and market trends, we create campaigns that drive engagement, amplify brand visibility, and ensure high ROI. We take pride in nurturing creators, fostering long-term relationships, and empowering brands to stand out in a competitive digital landscape. At CreatorsFlame, we don’t just market—we inspire, grow, and lead.
-                            </p>
                         </div>
-                        <!-- <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
+                    </header>
+                    <div class="uk-container" style="margin-top: 30px;">
+                        <p class="uk-text-center uk-text-muted uk-margin-top"
+                            style="padding-left: 20px; padding-right: 20px;font-size: 30px;"
+                            data-anime="opacity:[0, 1]; translateX:[-30, 0]; onview: true; delay: 200;">
+                            CreatorsFlame is a dynamic influencer marketing and talent management agency, committed to
+                            bridging brands and creators through impactful partnerships. Our expertise lies in designing
+                            innovative strategies, managing top-tier talent, and delivering exceptional results. With a
+                            deep understanding of audience behavior and market trends, we create campaigns that drive
+                            engagement, amplify brand visibility, and ensure high ROI. We take pride in nurturing
+                            creators, fostering long-term relationships, and empowering brands to stand out in a
+                            competitive digital landscape. At CreatorsFlame, we don’t just market—we inspire, grow, and
+                            lead.
+                        </p>
+                    </div>
+                    <!-- <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
                             <div class="uk-grid uk-grid-2xlarge uk-grid-3xlarge@m uk-child-width-1-1" data-uk-grid="">
                                 <div>
                                     <div class="uk-panel">
@@ -1003,88 +1131,105 @@
                                 </div>
                             </div>
                         </div>                     -->
-                    </div>
-                </div>
-            </section>
-            <!-- about us ends here -->
-            
-            
-
-            <!-- roadmap end -->
-
-            <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 100;">
-
-            <!-- Testinomial Start -->
-            <div id="uni_team" class="uni-team uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
-                <div class="uk-container">
-                    <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
-                        <div class="uk-panel">
-                            <h2 class="uk-h3 uk-h1@m">Testimonials</h2>
-                        </div>
-                    </header>
-                    <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
-                        <div class="uk-grid-xsmall uk-grid@m uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-4@m uk-grid" data-uk-grid>
-                            
-                            <div>
-                                <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall" style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
-                                    <div class="uk-panel uk-text-center uk-padding">
-                                        <h3 class="uk-text-bold" style="color: black;">SportsBazzi</h3>
-                                        <p class="uk-text-meta" style="color: black !important;">
-                                            CreatorsFlame transformed our brand awareness strategy. Their dedication, creative campaigns, and reliable communication made all the difference in helping us scale rapidly.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div>
-                                <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall" style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
-                                    <div class="uk-panel uk-text-center uk-padding">
-                                        <h3 class="uk-text-bold" style="color: black;">Wondershare</h3>
-                                        <p class="uk-text-meta" style="color: black !important;">
-                                            CreatorsFlame exceeded our expectations! Their team matched us with the perfect influencers, leading to a successful launch and significant user growth.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div>
-                                <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall" style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
-                                    <div class="uk-panel uk-text-center uk-padding">
-                                        <h3 class="uk-text-bold" style="color: black;">Olymp Trade</h3>
-                                        <p class="uk-text-meta" style="color: black !important;">
-                                            Working with CreatorsFlame was an absolute pleasure. Their expertise in influencer marketing ensured we reached our target audience effectively, boosting both visibility.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div>
-                                <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall" style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
-                                    <div class="uk-panel uk-text-center uk-padding">
-                                        <h3 class="uk-text-bold" style="color: black;">Khiladi Adda</h3>
-                                        <p class="uk-text-meta" style="color: black !important;">
-                                            CreatorsFlame brought our gaming campaigns to life! Their team’s innovative approach and seamless execution helped us connect with the gaming community like never before.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                    
-                        </div>
-                    </div>
-                    
                 </div>
             </div>
-            <!-- Testinomial End -->
+        </section>
+        <!-- about us ends here -->
+
+
+
+        <!-- roadmap end -->
+
+        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+            src="../assets/images/divider-01.png" alt="Divider"
+            data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 100;">
+
+        <!-- Testinomial Start -->
+        <div id="uni_team"
+            class="uni-team uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
+            <div class="uk-container">
+                <header
+                    class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid"
+                    data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
+                    <div class="uk-panel">
+                        <h2 class="uk-h3 uk-h1@m">Testimonials</h2>
+                    </div>
+                </header>
+                <div class="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
+                    <div class="uk-grid-xsmall uk-grid@m uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-4@m uk-grid"
+                        data-uk-grid>
+
+                        <div>
+                            <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall"
+                                style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
+                                <div class="uk-panel uk-text-center uk-padding">
+                                    <h3 class="uk-text-bold" style="color: black;">SportsBazzi</h3>
+                                    <p class="uk-text-meta" style="color: black !important;">
+                                        CreatorsFlame transformed our brand awareness strategy. Their dedication,
+                                        creative campaigns, and reliable communication made all the difference in
+                                        helping us scale rapidly.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall"
+                                style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
+                                <div class="uk-panel uk-text-center uk-padding">
+                                    <h3 class="uk-text-bold" style="color: black;">Wondershare</h3>
+                                    <p class="uk-text-meta" style="color: black !important;">
+                                        CreatorsFlame exceeded our expectations! Their team matched us with the perfect
+                                        influencers, leading to a successful launch and significant user growth.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall"
+                                style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
+                                <div class="uk-panel uk-text-center uk-padding">
+                                    <h3 class="uk-text-bold" style="color: black;">Olymp Trade</h3>
+                                    <p class="uk-text-meta" style="color: black !important;">
+                                        Working with CreatorsFlame was an absolute pleasure. Their expertise in
+                                        influencer marketing ensured we reached our target audience effectively,
+                                        boosting both visibility.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uni-card uk-panel uk-card uk-card-2xsmall uk-radius-large uk-box-shadow-xsmall"
+                                style="background: linear-gradient(45deg, orange, yellow); height: 250px;">
+                                <div class="uk-panel uk-text-center uk-padding">
+                                    <h3 class="uk-text-bold" style="color: black;">Khiladi Adda</h3>
+                                    <p class="uk-text-meta" style="color: black !important;">
+                                        CreatorsFlame brought our gaming campaigns to life! Their team’s innovative
+                                        approach and seamless execution helped us connect with the gaming community like
+                                        never before.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- Testinomial End -->
 
 
 
 
-            <!-- team end -->
+        <!-- team end -->
 
-            <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
+        <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
 
-            
-            <!-- <div id="uni_faq" class="uni-faq uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
+
+        <!-- <div id="uni_faq" class="uni-faq uk-section uk-section-large@m uk-panel uk-overflow-hidden uk-padding-2xlarge-bottom@m">
                 <div class="uk-container">
                     <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;">
                         <div class="uk-panel">
@@ -1135,11 +1280,11 @@
                 </div>
             </div> -->
 
-           
 
-            <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
 
-            <!-- <div class="uni-cta uk-section uk-section-2xlarge@m uk-panel uk-overflow-hidden">
+        <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
+
+        <!-- <div class="uni-cta uk-section uk-section-2xlarge@m uk-panel uk-overflow-hidden">
                 <img class="uk-cover uk-opacity-10" data-uk-cover src="../assets/images/collection-cta.png" alt="arrow">
                 <div class="uk-container">
                     <div class="uk-card uk-flex-center uk-text-center">
@@ -1155,91 +1300,107 @@
                 </div>
             </div> -->
 
-            <!-- cta end -->
+        <!-- cta end -->
 
-            <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
-        </div>
+        <!-- <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 100;"> -->
+    </div>
 
-        <!-- Divider image -->
-        <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m" src="../assets/images/divider-01.png" alt="Divider" data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 100;">
+    <!-- Divider image -->
+    <img class="uk-width-2xsmall uk-flex-center uk-margin-auto uk-margin-medium uk-margin-large@m"
+        src="../assets/images/divider-01.png" alt="Divider"
+        data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 100;">
 
-        <!-- Contact US Start -->
-        <section id="contact">
-            <div id="uni_minting" class="uni-minting uk-section uk-section-xlarge@m uk-panel">
-                <div class="uk-container uk-container-small">
-                    <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 200;">
-                        <div class="uk-panel uk-text-center">
-                            <h2 class="uk-h3 uk-h1@m">Contact Us</h2>
-                        </div>
-                    </header>
+    <!-- Contact US Start -->
+    <section id="contact">
+        <div id="uni_minting" class="uni-minting uk-section uk-section-xlarge@m uk-panel">
+            <div class="uk-container uk-container-small">
+                <header class="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid
+                    data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 200;">
+                    <div class="uk-panel uk-text-center">
+                        <h2 class="uk-h3 uk-h1@m">Contact Us</h2>
+                    </div>
+                </header>
 
-                   <!-- Contact Section -->
-                    <div class="uk-grid-large uk-flex-middle" uk-grid>
-                        <!-- Left Side Content -->
-                        <div class="uk-width-1-1 uk-width-1-2@m">
-                            <div class="uk-card uk-card-default uk-card-body left-side"> 
-                                <h3 class="uk-text-bold uk-text-white">Contact info :</h3>
-                                <p><strong>Email:</strong> <a href="mailto:contact@creatorsflame.com" class="uk-text-primary" style="color: #FFB700 !important;" target="_blank">contact@creatorsflame.com</a></p>
-                                <p><strong>Contact no:</strong> <a href="tel:1234567899" class="uk-text-primary" style="color: #FFB700 !important;">+91 1234567899</a></p>
-                                <button class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top" style="background: linear-gradient(45deg, orange, yellow);color: black !important;">Contact on Whatsapp</button>
-                                
-                                <!-- Social Media Icons -->
-                                <div class="social-icons">
-                                    <a href="https://www.linkedin.com" target="_blank"><i class="uk-icon uk-icon-medium unicon-logo-linkedin"></i></a>
-                                    <a href="https://www.instagram.com" target="_blank"><i class="uk-icon uk-icon-medium unicon-logo-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
+                <!-- Contact Section -->
+                <div class="uk-grid-large uk-flex-middle" uk-grid>
+                    <!-- Left Side Content -->
+                    <div class="uk-width-1-1 uk-width-1-2@m">
+                        <div class="uk-card uk-card-default uk-card-body left-side">
+                            <h3 class="uk-text-bold uk-text-white">Contact info :</h3>
+                            <p><strong>Email:</strong> <a href="mailto:contact@creatorsflame.com"
+                                    class="uk-text-primary" style="color: #FFB700 !important;"
+                                    target="_blank">contact@creatorsflame.com</a></p>
+                            <p><strong>Contact no:</strong> <a href="tel:1234567899" class="uk-text-primary"
+                                    style="color: #FFB700 !important;">+91 1234567899</a></p>
+                            <button class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top"
+                                style="background: linear-gradient(45deg, orange, yellow);color: black !important;">Contact
+                                on Whatsapp</button>
 
-                        <!-- Right Side Contact Form -->
-                        <div class="uk-width-1-1 uk-width-1-2@m">
-                            <div class="uk-panel uk-margin-top">
-                                <form>
-                                    <div class="uk-margin">
-                                        <label for="name" class="uk-form-label">Name</label>
-                                        <input id="name" class="uk-input" type="text" placeholder="Your Name" style="background-color: black;color: white;" required>
-                                    </div>
-
-                                    <div class="uk-margin">
-                                        <label for="email" class="uk-form-label">Email</label>
-                                        <input id="email" class="uk-input" type="email" placeholder="Your Email" style="background-color: black;color: white;" required>
-                                    </div>
-
-                                    <div class="uk-margin">
-                                        <label for="subject" class="uk-form-label">Subject</label>
-                                        <input id="subject" class="uk-input" type="text" placeholder="Subject" style="background-color: black;color: white;" required>
-                                    </div>
-
-                                    <div class="uk-margin">
-                                        <label for="message" class="uk-form-label">Message</label>
-                                        <textarea id="message" class="uk-textarea" rows="5" placeholder="Your Message" style="background-color: black;color: white;" required></textarea>
-                                    </div>
-
-                                    <div class="uk-margin">
-                                        <button class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top" style="background: linear-gradient(45deg, orange, yellow);color: black !important;" type="submit">Send Message</button>
-                                    </div>
-                                </form>
+                            <!-- Social Media Icons -->
+                            <div class="social-icons">
+                                <a href="https://www.linkedin.com" target="_blank"><i
+                                        class="uk-icon uk-icon-medium unicon-logo-linkedin"></i></a>
+                                <a href="https://www.instagram.com" target="_blank"><i
+                                        class="uk-icon uk-icon-medium unicon-logo-instagram"></i></a>
                             </div>
                         </div>
                     </div>
-                    <!-- End Contact Section -->
 
+                    <!-- Right Side Contact Form -->
+                    <div class="uk-width-1-1 uk-width-1-2@m">
+                        <div class="uk-panel uk-margin-top">
+                            <form>
+                                <div class="uk-margin">
+                                    <label for="name" class="uk-form-label">Name</label>
+                                    <input id="name" class="uk-input" type="text" placeholder="Your Name"
+                                        style="background-color: black;color: white;" required>
+                                </div>
+
+                                <div class="uk-margin">
+                                    <label for="email" class="uk-form-label">Email</label>
+                                    <input id="email" class="uk-input" type="email" placeholder="Your Email"
+                                        style="background-color: black;color: white;" required>
+                                </div>
+
+                                <div class="uk-margin">
+                                    <label for="subject" class="uk-form-label">Subject</label>
+                                    <input id="subject" class="uk-input" type="text" placeholder="Subject"
+                                        style="background-color: black;color: white;" required>
+                                </div>
+
+                                <div class="uk-margin">
+                                    <label for="message" class="uk-form-label">Message</label>
+                                    <textarea id="message" class="uk-textarea" rows="5" placeholder="Your Message"
+                                        style="background-color: black;color: white;" required></textarea>
+                                </div>
+
+                                <div class="uk-margin">
+                                    <button class="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top"
+                                        style="background: linear-gradient(45deg, orange, yellow);color: black !important;"
+                                        type="submit">Send Message</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
+                <!-- End Contact Section -->
+
             </div>
-        </section>
-        <!-- Contact US End -->
+        </div>
+    </section>
+    <!-- Contact US End -->
 
-        <!-- Wrapper end -->
+    <!-- Wrapper end -->
 
-        <!-- Footer start -->
-        <footer class="uni-footer uk-section uk-section-xlarge@m custom-footer">
-            <div class="uk-container">
-                <div class="uk-panel">
-                    <!-- <img class="uk-position-top-left" width="32" src="../assets/images/objects/ethereum-01.png" alt="object" style="top: 32%; left: 16%"> -->
-                    <!-- <img class="uk-position-top-right" width="16" src="../assets/images/objects/x.png" alt="object" style="top: 8%; right: 16%"> -->
-                    <!-- <img class="uk-position-bottom-right" width="16" src="../assets/images/objects/circle-01.png" alt="object" style="bottom: 24%; right: 40%"> -->
-                    <!-- <img class="uk-position-bottom-left" width="24" src="../assets/images/objects/circle-03.png" alt="object" style="bottom: -8%; left: 30%"> -->
-                    <!-- <div class="uk-grid uk-flex-center uk-text-center" data-uk-grid>
+    <!-- Footer start -->
+    <footer class="uni-footer uk-section uk-section-xlarge@m custom-footer">
+        <div class="uk-container">
+            <div class="uk-panel">
+                <!-- <img class="uk-position-top-left" width="32" src="../assets/images/objects/ethereum-01.png" alt="object" style="top: 32%; left: 16%"> -->
+                <!-- <img class="uk-position-top-right" width="16" src="../assets/images/objects/x.png" alt="object" style="top: 8%; right: 16%"> -->
+                <!-- <img class="uk-position-bottom-right" width="16" src="../assets/images/objects/circle-01.png" alt="object" style="bottom: 24%; right: 40%"> -->
+                <!-- <img class="uk-position-bottom-left" width="24" src="../assets/images/objects/circle-03.png" alt="object" style="bottom: -8%; left: 30%"> -->
+                <!-- <div class="uk-grid uk-flex-center uk-text-center" data-uk-grid>
                         <div class="uk-width-large@m">
                             <div class="uk-panel">
                                 <a class='uk-logo' href='landing-01.html'>
@@ -1260,10 +1421,11 @@
                             </div>
                         </div>
                     </div> -->
-                    <hr class="uk-margin-medium uk-margin-3xlarge-top@m">
-                    <div class="uk-panel uk-text-small">
-                        <div class="uk-grid uk-child-width-auto@m uk-flex-center uk-flex-between@m uk-text-center uk-text-left@m" data-uk-grid>
-                            <!-- <div>
+                <hr class="uk-margin-medium uk-margin-3xlarge-top@m">
+                <div class="uk-panel uk-text-small">
+                    <div class="uk-grid uk-child-width-auto@m uk-flex-center uk-flex-between@m uk-text-center uk-text-left@m"
+                        data-uk-grid>
+                        <!-- <div>
                                 <ul class="uk-subnav uk-subnav-small uk-text-muted uk-flex-center">
                                     <li><a href='privacy.html'>Privacy policy</a></li>
                                     <li><a href='terms.html'>Terms of use</a></li>
@@ -1272,41 +1434,54 @@
                                     </li>
                                 </ul>
                             </div> -->
-                            <div class="uk-flex-first@m uk-flex-center">
-                                <p class="uk-text-muted">© <script>document.write(new Date().getFullYear())</script> Creaters Flame. All rights reserved.</p>
-                            </div>
+                        <div class="uk-flex-first@m uk-flex-center">
+                            <p class="uk-text-muted">©
+                                <script>document.write(new Date().getFullYear())</script> Creaters Flame. All rights
+                                reserved.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!-- Footer end -->
+        </div>
+    </footer>
+    <!-- Footer end -->
 
-        <!-- include scripts -->
-        <script defer src="../assets/js/libs/jquery.min.js"></script>
-        <script defer src="../assets/js/libs/swiper-bundle.min.js"></script>
-        <script defer src="../assets/js/libs/feather.min.js"></script>
-        <script defer src="../assets/js/libs/typed.min.js"></script>
-        <script defer src="../assets/js/libs/anime.min.js"></script>
-        <script defer src="../assets/js/app.js"></script>
-        <script defer src="../assets/js/helpers/data-attr-helper.js"></script>
-        <script defer src="../assets/js/helpers/swiper-helper.js"></script>
-        <script defer src="../assets/js/helpers/typed-helper.js"></script>
-        <script defer src="../assets/js/helpers/anime-helper.js"></script>
+    <!-- include scripts -->
+    <script defer src="../assets/js/libs/jquery.min.js"></script>
+    <script defer src="../assets/js/libs/swiper-bundle.min.js"></script>
+    <script defer src="../assets/js/libs/feather.min.js"></script>
+    <script defer src="../assets/js/libs/typed.min.js"></script>
+    <script defer src="../assets/js/libs/anime.min.js"></script>
+    <script defer src="../assets/js/app.js"></script>
+    <script defer src="../assets/js/helpers/data-attr-helper.js"></script>
+    <script defer src="../assets/js/helpers/swiper-helper.js"></script>
+    <script defer src="../assets/js/helpers/typed-helper.js"></script>
+    <script defer src="../assets/js/helpers/anime-helper.js"></script>
 
-        <!-- <script defer src="../assets/js/helpers/anime-helper-defined-timelines.js"></script> -->
-        <script>
-            // Schema toggle via URL
-            const queryString = window.location.search;
-            const urlParams = new URLSearchParams(queryString);
-            const getSchema = urlParams.get("schema");
-            if (getSchema === "dark") {
-                document.documentElement.classList.add("uk-dark");
-                localStorage.setItem("darkMode", "1");
-            } else if (getSchema === "light") {
-                document.documentElement.classList.remove("uk-dark");
-                localStorage.setItem("darkMode", "0");
-            }
-        </script>
-    </body>
+    <!-- <script defer src="../assets/js/helpers/anime-helper-defined-timelines.js"></script> -->
+    <script>
+        // Schema toggle via URL
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const getSchema = urlParams.get("schema");
+        if (getSchema === "dark") {
+            document.documentElement.classList.add("uk-dark");
+            localStorage.setItem("darkMode", "1");
+        } else if (getSchema === "light") {
+            document.documentElement.classList.remove("uk-dark");
+            localStorage.setItem("darkMode", "0");
+        }
+    </script>
+
+    <!-- script for 1 time reload website -->
+    <script>
+        if (!sessionStorage.getItem("reloaded")) {
+            sessionStorage.setItem("reloaded", "true");
+            location.reload();
+        }
+    </script>
+
+</body>
+
 </html>

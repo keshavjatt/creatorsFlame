@@ -4698,7 +4698,7 @@ body {
     /* : var(--body-color-background, #fff); */
     color: inherit;
     position: relative;
-    background-color : black;
+    background-color: black;
 }
 
 .uk-link,
@@ -14437,181 +14437,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-primary-10:hover {
     color: var(--color-primary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-20:hover {
     color: var(--color-primary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-30:hover {
     color: var(--color-primary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-40:hover {
     color: var(--color-primary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary:hover {
     color: var(--color-primary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-60:hover {
     color: var(--color-primary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-70:hover {
     color: var(--color-primary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-80:hover {
     color: var(--color-primary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-90:hover {
     color: var(--color-primary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-primary-100:hover {
     color: var(--color-primary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-10:hover {
     /* : var(--color-primary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-20:hover {
     /* : var(--color-primary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-30:hover {
     /* : var(--color-primary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-40:hover {
     /* : var(--color-primary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary:hover {
     /* : var(--color-primary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-60:hover {
     /* : var(--color-primary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-70:hover {
     /* : var(--color-primary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-80:hover {
     /* : var(--color-primary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-90:hover {
     /* : var(--color-primary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-primary-100:hover {
     /* : var(--color-primary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-10:hover {
     border-color: var(--color-primary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-20:hover {
     border-color: var(--color-primary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-30:hover {
     border-color: var(--color-primary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-40:hover {
     border-color: var(--color-primary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary:hover {
     border-color: var(--color-primary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-60:hover {
     border-color: var(--color-primary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-70:hover {
     border-color: var(--color-primary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-80:hover {
     border-color: var(--color-primary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-90:hover {
     border-color: var(--color-primary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-primary-100:hover {
     border-color: var(--color-primary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-secondary-10 {
@@ -14737,181 +14737,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-secondary-10:hover {
     color: var(--color-secondary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-20:hover {
     color: var(--color-secondary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-30:hover {
     color: var(--color-secondary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-40:hover {
     color: var(--color-secondary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary:hover {
     color: var(--color-secondary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-60:hover {
     color: var(--color-secondary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-70:hover {
     color: var(--color-secondary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-80:hover {
     color: var(--color-secondary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-90:hover {
     color: var(--color-secondary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-secondary-100:hover {
     color: var(--color-secondary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-10:hover {
     /* : var(--color-secondary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-20:hover {
     /* : var(--color-secondary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-30:hover {
     /* : var(--color-secondary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-40:hover {
     /* : var(--color-secondary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary:hover {
     /* : var(--color-secondary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-60:hover {
     /* : var(--color-secondary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-70:hover {
     /* : var(--color-secondary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-80:hover {
     /* : var(--color-secondary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-90:hover {
     /* : var(--color-secondary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-secondary-100:hover {
     /* : var(--color-secondary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-10:hover {
     border-color: var(--color-secondary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-20:hover {
     border-color: var(--color-secondary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-30:hover {
     border-color: var(--color-secondary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-40:hover {
     border-color: var(--color-secondary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary:hover {
     border-color: var(--color-secondary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-60:hover {
     border-color: var(--color-secondary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-70:hover {
     border-color: var(--color-secondary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-80:hover {
     border-color: var(--color-secondary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-90:hover {
     border-color: var(--color-secondary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-secondary-100:hover {
     border-color: var(--color-secondary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-info-10 {
@@ -15037,181 +15037,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-info-10:hover {
     color: var(--color-info-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-20:hover {
     color: var(--color-info-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-30:hover {
     color: var(--color-info-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-40:hover {
     color: var(--color-info-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info:hover {
     color: var(--color-info) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-60:hover {
     color: var(--color-info-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-70:hover {
     color: var(--color-info-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-80:hover {
     color: var(--color-info-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-90:hover {
     color: var(--color-info-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-info-100:hover {
     color: var(--color-info-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-10:hover {
     /* : var(--color-info-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-20:hover {
     /* : var(--color-info-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-30:hover {
     /* : var(--color-info-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-40:hover {
     /* : var(--color-info-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info:hover {
     /* : var(--color-info) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-60:hover {
     /* : var(--color-info-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-70:hover {
     /* : var(--color-info-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-80:hover {
     /* : var(--color-info-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-90:hover {
     /* : var(--color-info-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-info-100:hover {
     /* : var(--color-info-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-10:hover {
     border-color: var(--color-info-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-20:hover {
     border-color: var(--color-info-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-30:hover {
     border-color: var(--color-info-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-40:hover {
     border-color: var(--color-info-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info:hover {
     border-color: var(--color-info) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-60:hover {
     border-color: var(--color-info-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-70:hover {
     border-color: var(--color-info-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-80:hover {
     border-color: var(--color-info-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-90:hover {
     border-color: var(--color-info-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-info-100:hover {
     border-color: var(--color-info-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-success-10 {
@@ -15337,181 +15337,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-success-10:hover {
     color: var(--color-success-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-20:hover {
     color: var(--color-success-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-30:hover {
     color: var(--color-success-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-40:hover {
     color: var(--color-success-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success:hover {
     color: var(--color-success) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-60:hover {
     color: var(--color-success-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-70:hover {
     color: var(--color-success-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-80:hover {
     color: var(--color-success-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-90:hover {
     color: var(--color-success-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-success-100:hover {
     color: var(--color-success-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-10:hover {
     /* : var(--color-success-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-20:hover {
     /* : var(--color-success-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-30:hover {
     /* : var(--color-success-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-40:hover {
     /* : var(--color-success-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success:hover {
     /* : var(--color-success) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-60:hover {
     /* : var(--color-success-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-70:hover {
     /* : var(--color-success-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-80:hover {
     /* : var(--color-success-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-90:hover {
     /* : var(--color-success-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-success-100:hover {
     /* : var(--color-success-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-10:hover {
     border-color: var(--color-success-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-20:hover {
     border-color: var(--color-success-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-30:hover {
     border-color: var(--color-success-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-40:hover {
     border-color: var(--color-success-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success:hover {
     border-color: var(--color-success) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-60:hover {
     border-color: var(--color-success-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-70:hover {
     border-color: var(--color-success-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-80:hover {
     border-color: var(--color-success-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-90:hover {
     border-color: var(--color-success-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-success-100:hover {
     border-color: var(--color-success-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-warning-10 {
@@ -15637,181 +15637,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-warning-10:hover {
     color: var(--color-warning-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-20:hover {
     color: var(--color-warning-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-30:hover {
     color: var(--color-warning-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-40:hover {
     color: var(--color-warning-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning:hover {
     color: var(--color-warning) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-60:hover {
     color: var(--color-warning-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-70:hover {
     color: var(--color-warning-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-80:hover {
     color: var(--color-warning-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-90:hover {
     color: var(--color-warning-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-warning-100:hover {
     color: var(--color-warning-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-10:hover {
     /* : var(--color-warning-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-20:hover {
     /* : var(--color-warning-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-30:hover {
     /* : var(--color-warning-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-40:hover {
     /* : var(--color-warning-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning:hover {
     /* : var(--color-warning) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-60:hover {
     /* : var(--color-warning-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-70:hover {
     /* : var(--color-warning-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-80:hover {
     /* : var(--color-warning-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-90:hover {
     /* : var(--color-warning-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-warning-100:hover {
     /* : var(--color-warning-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-10:hover {
     border-color: var(--color-warning-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-20:hover {
     border-color: var(--color-warning-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-30:hover {
     border-color: var(--color-warning-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-40:hover {
     border-color: var(--color-warning-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning:hover {
     border-color: var(--color-warning) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-60:hover {
     border-color: var(--color-warning-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-70:hover {
     border-color: var(--color-warning-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-80:hover {
     border-color: var(--color-warning-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-90:hover {
     border-color: var(--color-warning-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-warning-100:hover {
     border-color: var(--color-warning-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-danger-10 {
@@ -15937,181 +15937,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-danger-10:hover {
     color: var(--color-danger-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-20:hover {
     color: var(--color-danger-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-30:hover {
     color: var(--color-danger-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-40:hover {
     color: var(--color-danger-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger:hover {
     color: var(--color-danger) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-60:hover {
     color: var(--color-danger-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-70:hover {
     color: var(--color-danger-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-80:hover {
     color: var(--color-danger-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-90:hover {
     color: var(--color-danger-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-danger-100:hover {
     color: var(--color-danger-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-10:hover {
     /* : var(--color-danger-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-20:hover {
     /* : var(--color-danger-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-30:hover {
     /* : var(--color-danger-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-40:hover {
     /* : var(--color-danger-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger:hover {
     /* : var(--color-danger) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-60:hover {
     /* : var(--color-danger-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-70:hover {
     /* : var(--color-danger-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-80:hover {
     /* : var(--color-danger-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-90:hover {
     /* : var(--color-danger-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-danger-100:hover {
     /* : var(--color-danger-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-10:hover {
     border-color: var(--color-danger-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-20:hover {
     border-color: var(--color-danger-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-30:hover {
     border-color: var(--color-danger-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-40:hover {
     border-color: var(--color-danger-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger:hover {
     border-color: var(--color-danger) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-60:hover {
     border-color: var(--color-danger-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-70:hover {
     border-color: var(--color-danger-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-80:hover {
     border-color: var(--color-danger-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-90:hover {
     border-color: var(--color-danger-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-danger-100:hover {
     border-color: var(--color-danger-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-gray-10 {
@@ -16237,181 +16237,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-gray-10:hover {
     color: var(--color-gray-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-20:hover {
     color: var(--color-gray-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-30:hover {
     color: var(--color-gray-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-40:hover {
     color: var(--color-gray-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-50:hover {
     color: var(--color-gray-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-60:hover {
     color: var(--color-gray-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-70:hover {
     color: var(--color-gray-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-80:hover {
     color: var(--color-gray-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-90:hover {
     color: var(--color-gray-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-gray-100:hover {
     color: var(--color-gray-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-10:hover {
     /* : var(--color-gray-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-20:hover {
     /* : var(--color-gray-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-30:hover {
     /* : var(--color-gray-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-40:hover {
     /* : var(--color-gray-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-50:hover {
     /* : var(--color-gray-50) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-60:hover {
     /* : var(--color-gray-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-70:hover {
     /* : var(--color-gray-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-80:hover {
     /* : var(--color-gray-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-90:hover {
     /* : var(--color-gray-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-gray-100:hover {
     /* : var(--color-gray-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-10:hover {
     border-color: var(--color-gray-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-20:hover {
     border-color: var(--color-gray-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-30:hover {
     border-color: var(--color-gray-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-40:hover {
     border-color: var(--color-gray-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-50:hover {
     border-color: var(--color-gray-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-60:hover {
     border-color: var(--color-gray-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-70:hover {
     border-color: var(--color-gray-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-80:hover {
     border-color: var(--color-gray-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-90:hover {
     border-color: var(--color-gray-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-gray-100:hover {
     border-color: var(--color-gray-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-light-10 {
@@ -16537,181 +16537,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-light-10:hover {
     color: var(--color-light-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-20:hover {
     color: var(--color-light-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-30:hover {
     color: var(--color-light-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-40:hover {
     color: var(--color-light-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-50:hover {
     color: var(--color-light-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-60:hover {
     color: var(--color-light-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-70:hover {
     color: var(--color-light-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-80:hover {
     color: var(--color-light-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-90:hover {
     color: var(--color-light-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-light-100:hover {
     color: var(--color-light-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-10:hover {
     /* : var(--color-light-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-20:hover {
     /* : var(--color-light-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-30:hover {
     /* : var(--color-light-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-40:hover {
     /* : var(--color-light-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-50:hover {
     /* : var(--color-light-50) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-60:hover {
     /* : var(--color-light-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-70:hover {
     /* : var(--color-light-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-80:hover {
     /* : var(--color-light-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-90:hover {
     /* : var(--color-light-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-light-100:hover {
     /* : var(--color-light-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-10:hover {
     border-color: var(--color-light-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-20:hover {
     border-color: var(--color-light-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-30:hover {
     border-color: var(--color-light-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-40:hover {
     border-color: var(--color-light-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-50:hover {
     border-color: var(--color-light-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-60:hover {
     border-color: var(--color-light-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-70:hover {
     border-color: var(--color-light-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-80:hover {
     border-color: var(--color-light-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-90:hover {
     border-color: var(--color-light-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-light-100:hover {
     border-color: var(--color-light-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-muted-10 {
@@ -16837,181 +16837,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-muted-10:hover {
     color: var(--color-muted-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-20:hover {
     color: var(--color-muted-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-30:hover {
     color: var(--color-muted-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-40:hover {
     color: var(--color-muted-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted:hover {
     color: var(--color-muted) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-60:hover {
     color: var(--color-muted-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-70:hover {
     color: var(--color-muted-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-80:hover {
     color: var(--color-muted-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-90:hover {
     color: var(--color-muted-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-muted-100:hover {
     color: var(--color-muted-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-10:hover {
     /* : var(--color-muted-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-20:hover {
     /* : var(--color-muted-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-30:hover {
     /* : var(--color-muted-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-40:hover {
     /* : var(--color-muted-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted:hover {
     /* : var(--color-muted) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-60:hover {
     /* : var(--color-muted-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-70:hover {
     /* : var(--color-muted-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-80:hover {
     /* : var(--color-muted-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-90:hover {
     /* : var(--color-muted-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-muted-100:hover {
     /* : var(--color-muted-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-10:hover {
     border-color: var(--color-muted-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-20:hover {
     border-color: var(--color-muted-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-30:hover {
     border-color: var(--color-muted-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-40:hover {
     border-color: var(--color-muted-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted:hover {
     border-color: var(--color-muted) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-60:hover {
     border-color: var(--color-muted-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-70:hover {
     border-color: var(--color-muted-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-80:hover {
     border-color: var(--color-muted-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-90:hover {
     border-color: var(--color-muted-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-muted-100:hover {
     border-color: var(--color-muted-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-tertiary-10 {
@@ -17137,181 +17137,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-tertiary-10:hover {
     color: var(--color-tertiary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-20:hover {
     color: var(--color-tertiary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-30:hover {
     color: var(--color-tertiary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-40:hover {
     color: var(--color-tertiary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary:hover {
     color: var(--color-tertiary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-60:hover {
     color: var(--color-tertiary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-70:hover {
     color: var(--color-tertiary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-80:hover {
     color: var(--color-tertiary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-90:hover {
     color: var(--color-tertiary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-tertiary-100:hover {
     color: var(--color-tertiary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-10:hover {
     /* : var(--color-tertiary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-20:hover {
     /* : var(--color-tertiary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-30:hover {
     /* : var(--color-tertiary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-40:hover {
     /* : var(--color-tertiary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary:hover {
     /* : var(--color-tertiary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-60:hover {
     /* : var(--color-tertiary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-70:hover {
     /* : var(--color-tertiary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-80:hover {
     /* : var(--color-tertiary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-90:hover {
     /* : var(--color-tertiary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-tertiary-100:hover {
     /* : var(--color-tertiary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-10:hover {
     border-color: var(--color-tertiary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-20:hover {
     border-color: var(--color-tertiary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-30:hover {
     border-color: var(--color-tertiary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-40:hover {
     border-color: var(--color-tertiary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary:hover {
     border-color: var(--color-tertiary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-60:hover {
     border-color: var(--color-tertiary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-70:hover {
     border-color: var(--color-tertiary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-80:hover {
     border-color: var(--color-tertiary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-90:hover {
     border-color: var(--color-tertiary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-tertiary-100:hover {
     border-color: var(--color-tertiary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-quaternary-10 {
@@ -17437,181 +17437,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-quaternary-10:hover {
     color: var(--color-quaternary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-20:hover {
     color: var(--color-quaternary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-30:hover {
     color: var(--color-quaternary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-40:hover {
     color: var(--color-quaternary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary:hover {
     color: var(--color-quaternary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-60:hover {
     color: var(--color-quaternary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-70:hover {
     color: var(--color-quaternary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-80:hover {
     color: var(--color-quaternary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-90:hover {
     color: var(--color-quaternary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-quaternary-100:hover {
     color: var(--color-quaternary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-10:hover {
     /* : var(--color-quaternary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-20:hover {
     /* : var(--color-quaternary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-30:hover {
     /* : var(--color-quaternary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-40:hover {
     /* : var(--color-quaternary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary:hover {
     /* : var(--color-quaternary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-60:hover {
     /* : var(--color-quaternary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-70:hover {
     /* : var(--color-quaternary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-80:hover {
     /* : var(--color-quaternary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-90:hover {
     /* : var(--color-quaternary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-quaternary-100:hover {
     /* : var(--color-quaternary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-10:hover {
     border-color: var(--color-quaternary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-20:hover {
     border-color: var(--color-quaternary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-30:hover {
     border-color: var(--color-quaternary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-40:hover {
     border-color: var(--color-quaternary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary:hover {
     border-color: var(--color-quaternary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-60:hover {
     border-color: var(--color-quaternary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-70:hover {
     border-color: var(--color-quaternary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-80:hover {
     border-color: var(--color-quaternary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-90:hover {
     border-color: var(--color-quaternary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-quaternary-100:hover {
     border-color: var(--color-quaternary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-default-10 {
@@ -17737,181 +17737,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-default-10:hover {
     color: var(--color-default-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-20:hover {
     color: var(--color-default-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-30:hover {
     color: var(--color-default-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-40:hover {
     color: var(--color-default-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default:hover {
     color: var(--color-default) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-60:hover {
     color: var(--color-default-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-70:hover {
     color: var(--color-default-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-80:hover {
     color: var(--color-default-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-90:hover {
     color: var(--color-default-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-default-100:hover {
     color: var(--color-default-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-10:hover {
     /* : var(--color-default-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-20:hover {
     /* : var(--color-default-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-30:hover {
     /* : var(--color-default-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-40:hover {
     /* : var(--color-default-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default:hover {
     /* : var(--color-default) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-60:hover {
     /* : var(--color-default-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-70:hover {
     /* : var(--color-default-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-80:hover {
     /* : var(--color-default-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-90:hover {
     /* : var(--color-default-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-default-100:hover {
     /* : var(--color-default-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-10:hover {
     border-color: var(--color-default-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-20:hover {
     border-color: var(--color-default-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-30:hover {
     border-color: var(--color-default-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-40:hover {
     border-color: var(--color-default-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default:hover {
     border-color: var(--color-default) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-60:hover {
     border-color: var(--color-default-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-70:hover {
     border-color: var(--color-default-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-80:hover {
     border-color: var(--color-default-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-90:hover {
     border-color: var(--color-default-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-default-100:hover {
     border-color: var(--color-default-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-text-darkgrey-10 {
@@ -18037,181 +18037,181 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .hover\:uk-text-darkgrey-10:hover {
     color: var(--color-darkgrey-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-20:hover {
     color: var(--color-darkgrey-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-30:hover {
     color: var(--color-darkgrey-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-40:hover {
     color: var(--color-darkgrey-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey:hover {
     color: var(--color-darkgrey) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-60:hover {
     color: var(--color-darkgrey-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-70:hover {
     color: var(--color-darkgrey-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-80:hover {
     color: var(--color-darkgrey-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-90:hover {
     color: var(--color-darkgrey-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-text-darkgrey-100:hover {
     color: var(--color-darkgrey-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-10:hover {
     /* : var(--color-darkgrey-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-20:hover {
     /* : var(--color-darkgrey-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-30:hover {
     /* : var(--color-darkgrey-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-40:hover {
     /* : var(--color-darkgrey-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey:hover {
     /* : var(--color-darkgrey) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-60:hover {
     /* : var(--color-darkgrey-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-70:hover {
     /* : var(--color-darkgrey-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-80:hover {
     /* : var(--color-darkgrey-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-90:hover {
     /* : var(--color-darkgrey-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-background-darkgrey-100:hover {
     /* : var(--color-darkgrey-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-10:hover {
     border-color: var(--color-darkgrey-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-20:hover {
     border-color: var(--color-darkgrey-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-30:hover {
     border-color: var(--color-darkgrey-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-40:hover {
     border-color: var(--color-darkgrey-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey:hover {
     border-color: var(--color-darkgrey) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-60:hover {
     border-color: var(--color-darkgrey-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-70:hover {
     border-color: var(--color-darkgrey-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-80:hover {
     border-color: var(--color-darkgrey-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-90:hover {
     border-color: var(--color-darkgrey-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .hover\:uk-border-darkgrey-100:hover {
     border-color: var(--color-darkgrey-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-primary-10,
@@ -18368,210 +18368,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-primary-10:hover {
     color: var(--color-primary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-20:hover,
 .uk-dark.dark\:hover\:uk-text-primary-20:hover {
     color: var(--color-primary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-30:hover,
 .uk-dark.dark\:hover\:uk-text-primary-30:hover {
     color: var(--color-primary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-40:hover,
 .uk-dark.dark\:hover\:uk-text-primary-40:hover {
     color: var(--color-primary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary:hover,
 .uk-dark.dark\:hover\:uk-text-primary:hover {
     color: var(--color-primary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-60:hover,
 .uk-dark.dark\:hover\:uk-text-primary-60:hover {
     color: var(--color-primary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-70:hover,
 .uk-dark.dark\:hover\:uk-text-primary-70:hover {
     color: var(--color-primary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-80:hover,
 .uk-dark.dark\:hover\:uk-text-primary-80:hover {
     color: var(--color-primary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-90:hover,
 .uk-dark.dark\:hover\:uk-text-primary-90:hover {
     color: var(--color-primary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-primary-100:hover,
 .uk-dark.dark\:hover\:uk-text-primary-100:hover {
     color: var(--color-primary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-10:hover,
 .uk-dark.dark\:hover\:uk-background-primary-10:hover {
     /* : var(--color-primary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-20:hover,
 .uk-dark.dark\:hover\:uk-background-primary-20:hover {
     /* : var(--color-primary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-30:hover,
 .uk-dark.dark\:hover\:uk-background-primary-30:hover {
     /* : var(--color-primary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-40:hover,
 .uk-dark.dark\:hover\:uk-background-primary-40:hover {
     /* : var(--color-primary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary:hover,
 .uk-dark.dark\:hover\:uk-background-primary:hover {
     /* : var(--color-primary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-60:hover,
 .uk-dark.dark\:hover\:uk-background-primary-60:hover {
     /* : var(--color-primary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-70:hover,
 .uk-dark.dark\:hover\:uk-background-primary-70:hover {
     /* : var(--color-primary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-80:hover,
 .uk-dark.dark\:hover\:uk-background-primary-80:hover {
     /* : var(--color-primary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-90:hover,
 .uk-dark.dark\:hover\:uk-background-primary-90:hover {
     /* : var(--color-primary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-primary-100:hover,
 .uk-dark.dark\:hover\:uk-background-primary-100:hover {
     /* : var(--color-primary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-10:hover,
 .uk-dark.dark\:hover\:uk-border-primary-10:hover {
     border-color: var(--color-primary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-20:hover,
 .uk-dark.dark\:hover\:uk-border-primary-20:hover {
     border-color: var(--color-primary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-30:hover,
 .uk-dark.dark\:hover\:uk-border-primary-30:hover {
     border-color: var(--color-primary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-40:hover,
 .uk-dark.dark\:hover\:uk-border-primary-40:hover {
     border-color: var(--color-primary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary:hover,
 .uk-dark.dark\:hover\:uk-border-primary:hover {
     border-color: var(--color-primary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-60:hover,
 .uk-dark.dark\:hover\:uk-border-primary-60:hover {
     border-color: var(--color-primary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-70:hover,
 .uk-dark.dark\:hover\:uk-border-primary-70:hover {
     border-color: var(--color-primary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-80:hover,
 .uk-dark.dark\:hover\:uk-border-primary-80:hover {
     border-color: var(--color-primary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-90:hover,
 .uk-dark.dark\:hover\:uk-border-primary-90:hover {
     border-color: var(--color-primary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-primary-100:hover,
 .uk-dark.dark\:hover\:uk-border-primary-100:hover {
     border-color: var(--color-primary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-secondary-10,
@@ -18728,210 +18728,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-secondary-10:hover {
     color: var(--color-secondary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-20:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-20:hover {
     color: var(--color-secondary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-30:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-30:hover {
     color: var(--color-secondary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-40:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-40:hover {
     color: var(--color-secondary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary:hover,
 .uk-dark.dark\:hover\:uk-text-secondary:hover {
     color: var(--color-secondary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-60:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-60:hover {
     color: var(--color-secondary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-70:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-70:hover {
     color: var(--color-secondary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-80:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-80:hover {
     color: var(--color-secondary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-90:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-90:hover {
     color: var(--color-secondary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-secondary-100:hover,
 .uk-dark.dark\:hover\:uk-text-secondary-100:hover {
     color: var(--color-secondary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-10:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-10:hover {
     /* : var(--color-secondary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-20:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-20:hover {
     /* : var(--color-secondary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-30:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-30:hover {
     /* : var(--color-secondary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-40:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-40:hover {
     /* : var(--color-secondary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary:hover,
 .uk-dark.dark\:hover\:uk-background-secondary:hover {
     /* : var(--color-secondary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-60:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-60:hover {
     /* : var(--color-secondary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-70:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-70:hover {
     /* : var(--color-secondary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-80:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-80:hover {
     /* : var(--color-secondary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-90:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-90:hover {
     /* : var(--color-secondary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-secondary-100:hover,
 .uk-dark.dark\:hover\:uk-background-secondary-100:hover {
     /* : var(--color-secondary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-10:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-10:hover {
     border-color: var(--color-secondary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-20:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-20:hover {
     border-color: var(--color-secondary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-30:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-30:hover {
     border-color: var(--color-secondary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-40:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-40:hover {
     border-color: var(--color-secondary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary:hover,
 .uk-dark.dark\:hover\:uk-border-secondary:hover {
     border-color: var(--color-secondary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-60:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-60:hover {
     border-color: var(--color-secondary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-70:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-70:hover {
     border-color: var(--color-secondary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-80:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-80:hover {
     border-color: var(--color-secondary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-90:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-90:hover {
     border-color: var(--color-secondary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-secondary-100:hover,
 .uk-dark.dark\:hover\:uk-border-secondary-100:hover {
     border-color: var(--color-secondary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-info-10,
@@ -19088,210 +19088,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-info-10:hover {
     color: var(--color-info-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-20:hover,
 .uk-dark.dark\:hover\:uk-text-info-20:hover {
     color: var(--color-info-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-30:hover,
 .uk-dark.dark\:hover\:uk-text-info-30:hover {
     color: var(--color-info-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-40:hover,
 .uk-dark.dark\:hover\:uk-text-info-40:hover {
     color: var(--color-info-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info:hover,
 .uk-dark.dark\:hover\:uk-text-info:hover {
     color: var(--color-info) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-60:hover,
 .uk-dark.dark\:hover\:uk-text-info-60:hover {
     color: var(--color-info-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-70:hover,
 .uk-dark.dark\:hover\:uk-text-info-70:hover {
     color: var(--color-info-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-80:hover,
 .uk-dark.dark\:hover\:uk-text-info-80:hover {
     color: var(--color-info-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-90:hover,
 .uk-dark.dark\:hover\:uk-text-info-90:hover {
     color: var(--color-info-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-info-100:hover,
 .uk-dark.dark\:hover\:uk-text-info-100:hover {
     color: var(--color-info-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-10:hover,
 .uk-dark.dark\:hover\:uk-background-info-10:hover {
     /* : var(--color-info-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-20:hover,
 .uk-dark.dark\:hover\:uk-background-info-20:hover {
     /* : var(--color-info-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-30:hover,
 .uk-dark.dark\:hover\:uk-background-info-30:hover {
     /* : var(--color-info-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-40:hover,
 .uk-dark.dark\:hover\:uk-background-info-40:hover {
     /* : var(--color-info-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info:hover,
 .uk-dark.dark\:hover\:uk-background-info:hover {
     /* : var(--color-info) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-60:hover,
 .uk-dark.dark\:hover\:uk-background-info-60:hover {
     /* : var(--color-info-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-70:hover,
 .uk-dark.dark\:hover\:uk-background-info-70:hover {
     /* : var(--color-info-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-80:hover,
 .uk-dark.dark\:hover\:uk-background-info-80:hover {
     /* : var(--color-info-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-90:hover,
 .uk-dark.dark\:hover\:uk-background-info-90:hover {
     /* : var(--color-info-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-info-100:hover,
 .uk-dark.dark\:hover\:uk-background-info-100:hover {
     /* : var(--color-info-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-10:hover,
 .uk-dark.dark\:hover\:uk-border-info-10:hover {
     border-color: var(--color-info-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-20:hover,
 .uk-dark.dark\:hover\:uk-border-info-20:hover {
     border-color: var(--color-info-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-30:hover,
 .uk-dark.dark\:hover\:uk-border-info-30:hover {
     border-color: var(--color-info-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-40:hover,
 .uk-dark.dark\:hover\:uk-border-info-40:hover {
     border-color: var(--color-info-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info:hover,
 .uk-dark.dark\:hover\:uk-border-info:hover {
     border-color: var(--color-info) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-60:hover,
 .uk-dark.dark\:hover\:uk-border-info-60:hover {
     border-color: var(--color-info-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-70:hover,
 .uk-dark.dark\:hover\:uk-border-info-70:hover {
     border-color: var(--color-info-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-80:hover,
 .uk-dark.dark\:hover\:uk-border-info-80:hover {
     border-color: var(--color-info-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-90:hover,
 .uk-dark.dark\:hover\:uk-border-info-90:hover {
     border-color: var(--color-info-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-info-100:hover,
 .uk-dark.dark\:hover\:uk-border-info-100:hover {
     border-color: var(--color-info-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-success-10,
@@ -19448,210 +19448,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-success-10:hover {
     color: var(--color-success-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-20:hover,
 .uk-dark.dark\:hover\:uk-text-success-20:hover {
     color: var(--color-success-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-30:hover,
 .uk-dark.dark\:hover\:uk-text-success-30:hover {
     color: var(--color-success-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-40:hover,
 .uk-dark.dark\:hover\:uk-text-success-40:hover {
     color: var(--color-success-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success:hover,
 .uk-dark.dark\:hover\:uk-text-success:hover {
     color: var(--color-success) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-60:hover,
 .uk-dark.dark\:hover\:uk-text-success-60:hover {
     color: var(--color-success-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-70:hover,
 .uk-dark.dark\:hover\:uk-text-success-70:hover {
     color: var(--color-success-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-80:hover,
 .uk-dark.dark\:hover\:uk-text-success-80:hover {
     color: var(--color-success-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-90:hover,
 .uk-dark.dark\:hover\:uk-text-success-90:hover {
     color: var(--color-success-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-success-100:hover,
 .uk-dark.dark\:hover\:uk-text-success-100:hover {
     color: var(--color-success-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-10:hover,
 .uk-dark.dark\:hover\:uk-background-success-10:hover {
     /* : var(--color-success-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-20:hover,
 .uk-dark.dark\:hover\:uk-background-success-20:hover {
     /* : var(--color-success-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-30:hover,
 .uk-dark.dark\:hover\:uk-background-success-30:hover {
     /* : var(--color-success-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-40:hover,
 .uk-dark.dark\:hover\:uk-background-success-40:hover {
     /* : var(--color-success-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success:hover,
 .uk-dark.dark\:hover\:uk-background-success:hover {
     /* : var(--color-success) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-60:hover,
 .uk-dark.dark\:hover\:uk-background-success-60:hover {
     /* : var(--color-success-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-70:hover,
 .uk-dark.dark\:hover\:uk-background-success-70:hover {
     /* : var(--color-success-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-80:hover,
 .uk-dark.dark\:hover\:uk-background-success-80:hover {
     /* : var(--color-success-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-90:hover,
 .uk-dark.dark\:hover\:uk-background-success-90:hover {
     /* : var(--color-success-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-success-100:hover,
 .uk-dark.dark\:hover\:uk-background-success-100:hover {
     /* : var(--color-success-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-10:hover,
 .uk-dark.dark\:hover\:uk-border-success-10:hover {
     border-color: var(--color-success-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-20:hover,
 .uk-dark.dark\:hover\:uk-border-success-20:hover {
     border-color: var(--color-success-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-30:hover,
 .uk-dark.dark\:hover\:uk-border-success-30:hover {
     border-color: var(--color-success-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-40:hover,
 .uk-dark.dark\:hover\:uk-border-success-40:hover {
     border-color: var(--color-success-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success:hover,
 .uk-dark.dark\:hover\:uk-border-success:hover {
     border-color: var(--color-success) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-60:hover,
 .uk-dark.dark\:hover\:uk-border-success-60:hover {
     border-color: var(--color-success-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-70:hover,
 .uk-dark.dark\:hover\:uk-border-success-70:hover {
     border-color: var(--color-success-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-80:hover,
 .uk-dark.dark\:hover\:uk-border-success-80:hover {
     border-color: var(--color-success-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-90:hover,
 .uk-dark.dark\:hover\:uk-border-success-90:hover {
     border-color: var(--color-success-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-success-100:hover,
 .uk-dark.dark\:hover\:uk-border-success-100:hover {
     border-color: var(--color-success-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-warning-10,
@@ -19808,210 +19808,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-warning-10:hover {
     color: var(--color-warning-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-20:hover,
 .uk-dark.dark\:hover\:uk-text-warning-20:hover {
     color: var(--color-warning-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-30:hover,
 .uk-dark.dark\:hover\:uk-text-warning-30:hover {
     color: var(--color-warning-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-40:hover,
 .uk-dark.dark\:hover\:uk-text-warning-40:hover {
     color: var(--color-warning-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning:hover,
 .uk-dark.dark\:hover\:uk-text-warning:hover {
     color: var(--color-warning) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-60:hover,
 .uk-dark.dark\:hover\:uk-text-warning-60:hover {
     color: var(--color-warning-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-70:hover,
 .uk-dark.dark\:hover\:uk-text-warning-70:hover {
     color: var(--color-warning-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-80:hover,
 .uk-dark.dark\:hover\:uk-text-warning-80:hover {
     color: var(--color-warning-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-90:hover,
 .uk-dark.dark\:hover\:uk-text-warning-90:hover {
     color: var(--color-warning-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-warning-100:hover,
 .uk-dark.dark\:hover\:uk-text-warning-100:hover {
     color: var(--color-warning-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-10:hover,
 .uk-dark.dark\:hover\:uk-background-warning-10:hover {
     /* : var(--color-warning-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-20:hover,
 .uk-dark.dark\:hover\:uk-background-warning-20:hover {
     /* : var(--color-warning-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-30:hover,
 .uk-dark.dark\:hover\:uk-background-warning-30:hover {
     /* : var(--color-warning-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-40:hover,
 .uk-dark.dark\:hover\:uk-background-warning-40:hover {
     /* : var(--color-warning-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning:hover,
 .uk-dark.dark\:hover\:uk-background-warning:hover {
     /* : var(--color-warning) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-60:hover,
 .uk-dark.dark\:hover\:uk-background-warning-60:hover {
     /* : var(--color-warning-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-70:hover,
 .uk-dark.dark\:hover\:uk-background-warning-70:hover {
     /* : var(--color-warning-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-80:hover,
 .uk-dark.dark\:hover\:uk-background-warning-80:hover {
     /* : var(--color-warning-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-90:hover,
 .uk-dark.dark\:hover\:uk-background-warning-90:hover {
     /* : var(--color-warning-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-warning-100:hover,
 .uk-dark.dark\:hover\:uk-background-warning-100:hover {
     /* : var(--color-warning-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-10:hover,
 .uk-dark.dark\:hover\:uk-border-warning-10:hover {
     border-color: var(--color-warning-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-20:hover,
 .uk-dark.dark\:hover\:uk-border-warning-20:hover {
     border-color: var(--color-warning-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-30:hover,
 .uk-dark.dark\:hover\:uk-border-warning-30:hover {
     border-color: var(--color-warning-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-40:hover,
 .uk-dark.dark\:hover\:uk-border-warning-40:hover {
     border-color: var(--color-warning-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning:hover,
 .uk-dark.dark\:hover\:uk-border-warning:hover {
     border-color: var(--color-warning) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-60:hover,
 .uk-dark.dark\:hover\:uk-border-warning-60:hover {
     border-color: var(--color-warning-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-70:hover,
 .uk-dark.dark\:hover\:uk-border-warning-70:hover {
     border-color: var(--color-warning-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-80:hover,
 .uk-dark.dark\:hover\:uk-border-warning-80:hover {
     border-color: var(--color-warning-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-90:hover,
 .uk-dark.dark\:hover\:uk-border-warning-90:hover {
     border-color: var(--color-warning-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-warning-100:hover,
 .uk-dark.dark\:hover\:uk-border-warning-100:hover {
     border-color: var(--color-warning-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-danger-10,
@@ -20168,210 +20168,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-danger-10:hover {
     color: var(--color-danger-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-20:hover,
 .uk-dark.dark\:hover\:uk-text-danger-20:hover {
     color: var(--color-danger-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-30:hover,
 .uk-dark.dark\:hover\:uk-text-danger-30:hover {
     color: var(--color-danger-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-40:hover,
 .uk-dark.dark\:hover\:uk-text-danger-40:hover {
     color: var(--color-danger-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger:hover,
 .uk-dark.dark\:hover\:uk-text-danger:hover {
     color: var(--color-danger) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-60:hover,
 .uk-dark.dark\:hover\:uk-text-danger-60:hover {
     color: var(--color-danger-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-70:hover,
 .uk-dark.dark\:hover\:uk-text-danger-70:hover {
     color: var(--color-danger-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-80:hover,
 .uk-dark.dark\:hover\:uk-text-danger-80:hover {
     color: var(--color-danger-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-90:hover,
 .uk-dark.dark\:hover\:uk-text-danger-90:hover {
     color: var(--color-danger-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-danger-100:hover,
 .uk-dark.dark\:hover\:uk-text-danger-100:hover {
     color: var(--color-danger-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-10:hover,
 .uk-dark.dark\:hover\:uk-background-danger-10:hover {
     /* : var(--color-danger-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-20:hover,
 .uk-dark.dark\:hover\:uk-background-danger-20:hover {
     /* : var(--color-danger-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-30:hover,
 .uk-dark.dark\:hover\:uk-background-danger-30:hover {
     /* : var(--color-danger-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-40:hover,
 .uk-dark.dark\:hover\:uk-background-danger-40:hover {
     /* : var(--color-danger-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger:hover,
 .uk-dark.dark\:hover\:uk-background-danger:hover {
     /* : var(--color-danger) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-60:hover,
 .uk-dark.dark\:hover\:uk-background-danger-60:hover {
     /* : var(--color-danger-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-70:hover,
 .uk-dark.dark\:hover\:uk-background-danger-70:hover {
     /* : var(--color-danger-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-80:hover,
 .uk-dark.dark\:hover\:uk-background-danger-80:hover {
     /* : var(--color-danger-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-90:hover,
 .uk-dark.dark\:hover\:uk-background-danger-90:hover {
     /* : var(--color-danger-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-danger-100:hover,
 .uk-dark.dark\:hover\:uk-background-danger-100:hover {
     /* : var(--color-danger-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-10:hover,
 .uk-dark.dark\:hover\:uk-border-danger-10:hover {
     border-color: var(--color-danger-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-20:hover,
 .uk-dark.dark\:hover\:uk-border-danger-20:hover {
     border-color: var(--color-danger-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-30:hover,
 .uk-dark.dark\:hover\:uk-border-danger-30:hover {
     border-color: var(--color-danger-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-40:hover,
 .uk-dark.dark\:hover\:uk-border-danger-40:hover {
     border-color: var(--color-danger-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger:hover,
 .uk-dark.dark\:hover\:uk-border-danger:hover {
     border-color: var(--color-danger) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-60:hover,
 .uk-dark.dark\:hover\:uk-border-danger-60:hover {
     border-color: var(--color-danger-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-70:hover,
 .uk-dark.dark\:hover\:uk-border-danger-70:hover {
     border-color: var(--color-danger-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-80:hover,
 .uk-dark.dark\:hover\:uk-border-danger-80:hover {
     border-color: var(--color-danger-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-90:hover,
 .uk-dark.dark\:hover\:uk-border-danger-90:hover {
     border-color: var(--color-danger-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-danger-100:hover,
 .uk-dark.dark\:hover\:uk-border-danger-100:hover {
     border-color: var(--color-danger-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-gray-10,
@@ -20528,210 +20528,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-gray-10:hover {
     color: var(--color-gray-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-20:hover,
 .uk-dark.dark\:hover\:uk-text-gray-20:hover {
     color: var(--color-gray-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-30:hover,
 .uk-dark.dark\:hover\:uk-text-gray-30:hover {
     color: var(--color-gray-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-40:hover,
 .uk-dark.dark\:hover\:uk-text-gray-40:hover {
     color: var(--color-gray-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-50:hover,
 .uk-dark.dark\:hover\:uk-text-gray-50:hover {
     color: var(--color-gray-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-60:hover,
 .uk-dark.dark\:hover\:uk-text-gray-60:hover {
     color: var(--color-gray-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-70:hover,
 .uk-dark.dark\:hover\:uk-text-gray-70:hover {
     color: var(--color-gray-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-80:hover,
 .uk-dark.dark\:hover\:uk-text-gray-80:hover {
     color: var(--color-gray-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-90:hover,
 .uk-dark.dark\:hover\:uk-text-gray-90:hover {
     color: var(--color-gray-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-gray-100:hover,
 .uk-dark.dark\:hover\:uk-text-gray-100:hover {
     color: var(--color-gray-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-10:hover,
 .uk-dark.dark\:hover\:uk-background-gray-10:hover {
     /* : var(--color-gray-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-20:hover,
 .uk-dark.dark\:hover\:uk-background-gray-20:hover {
     /* : var(--color-gray-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-30:hover,
 .uk-dark.dark\:hover\:uk-background-gray-30:hover {
     /* : var(--color-gray-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-40:hover,
 .uk-dark.dark\:hover\:uk-background-gray-40:hover {
     /* : var(--color-gray-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-50:hover,
 .uk-dark.dark\:hover\:uk-background-gray-50:hover {
     /* : var(--color-gray-50) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-60:hover,
 .uk-dark.dark\:hover\:uk-background-gray-60:hover {
     /* : var(--color-gray-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-70:hover,
 .uk-dark.dark\:hover\:uk-background-gray-70:hover {
     /* : var(--color-gray-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-80:hover,
 .uk-dark.dark\:hover\:uk-background-gray-80:hover {
     /* : var(--color-gray-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-90:hover,
 .uk-dark.dark\:hover\:uk-background-gray-90:hover {
     /* : var(--color-gray-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-gray-100:hover,
 .uk-dark.dark\:hover\:uk-background-gray-100:hover {
     /* : var(--color-gray-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-10:hover,
 .uk-dark.dark\:hover\:uk-border-gray-10:hover {
     border-color: var(--color-gray-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-20:hover,
 .uk-dark.dark\:hover\:uk-border-gray-20:hover {
     border-color: var(--color-gray-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-30:hover,
 .uk-dark.dark\:hover\:uk-border-gray-30:hover {
     border-color: var(--color-gray-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-40:hover,
 .uk-dark.dark\:hover\:uk-border-gray-40:hover {
     border-color: var(--color-gray-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-50:hover,
 .uk-dark.dark\:hover\:uk-border-gray-50:hover {
     border-color: var(--color-gray-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-60:hover,
 .uk-dark.dark\:hover\:uk-border-gray-60:hover {
     border-color: var(--color-gray-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-70:hover,
 .uk-dark.dark\:hover\:uk-border-gray-70:hover {
     border-color: var(--color-gray-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-80:hover,
 .uk-dark.dark\:hover\:uk-border-gray-80:hover {
     border-color: var(--color-gray-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-90:hover,
 .uk-dark.dark\:hover\:uk-border-gray-90:hover {
     border-color: var(--color-gray-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-gray-100:hover,
 .uk-dark.dark\:hover\:uk-border-gray-100:hover {
     border-color: var(--color-gray-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-light-10,
@@ -20888,210 +20888,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-light-10:hover {
     color: var(--color-light-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-20:hover,
 .uk-dark.dark\:hover\:uk-text-light-20:hover {
     color: var(--color-light-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-30:hover,
 .uk-dark.dark\:hover\:uk-text-light-30:hover {
     color: var(--color-light-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-40:hover,
 .uk-dark.dark\:hover\:uk-text-light-40:hover {
     color: var(--color-light-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-50:hover,
 .uk-dark.dark\:hover\:uk-text-light-50:hover {
     color: var(--color-light-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-60:hover,
 .uk-dark.dark\:hover\:uk-text-light-60:hover {
     color: var(--color-light-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-70:hover,
 .uk-dark.dark\:hover\:uk-text-light-70:hover {
     color: var(--color-light-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-80:hover,
 .uk-dark.dark\:hover\:uk-text-light-80:hover {
     color: var(--color-light-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-90:hover,
 .uk-dark.dark\:hover\:uk-text-light-90:hover {
     color: var(--color-light-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-light-100:hover,
 .uk-dark.dark\:hover\:uk-text-light-100:hover {
     color: var(--color-light-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-10:hover,
 .uk-dark.dark\:hover\:uk-background-light-10:hover {
     /* : var(--color-light-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-20:hover,
 .uk-dark.dark\:hover\:uk-background-light-20:hover {
     /* : var(--color-light-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-30:hover,
 .uk-dark.dark\:hover\:uk-background-light-30:hover {
     /* : var(--color-light-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-40:hover,
 .uk-dark.dark\:hover\:uk-background-light-40:hover {
     /* : var(--color-light-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-50:hover,
 .uk-dark.dark\:hover\:uk-background-light-50:hover {
     /* : var(--color-light-50) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-60:hover,
 .uk-dark.dark\:hover\:uk-background-light-60:hover {
     /* : var(--color-light-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-70:hover,
 .uk-dark.dark\:hover\:uk-background-light-70:hover {
     /* : var(--color-light-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-80:hover,
 .uk-dark.dark\:hover\:uk-background-light-80:hover {
     /* : var(--color-light-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-90:hover,
 .uk-dark.dark\:hover\:uk-background-light-90:hover {
     /* : var(--color-light-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-light-100:hover,
 .uk-dark.dark\:hover\:uk-background-light-100:hover {
     /* : var(--color-light-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-10:hover,
 .uk-dark.dark\:hover\:uk-border-light-10:hover {
     border-color: var(--color-light-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-20:hover,
 .uk-dark.dark\:hover\:uk-border-light-20:hover {
     border-color: var(--color-light-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-30:hover,
 .uk-dark.dark\:hover\:uk-border-light-30:hover {
     border-color: var(--color-light-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-40:hover,
 .uk-dark.dark\:hover\:uk-border-light-40:hover {
     border-color: var(--color-light-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-50:hover,
 .uk-dark.dark\:hover\:uk-border-light-50:hover {
     border-color: var(--color-light-50) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-60:hover,
 .uk-dark.dark\:hover\:uk-border-light-60:hover {
     border-color: var(--color-light-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-70:hover,
 .uk-dark.dark\:hover\:uk-border-light-70:hover {
     border-color: var(--color-light-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-80:hover,
 .uk-dark.dark\:hover\:uk-border-light-80:hover {
     border-color: var(--color-light-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-90:hover,
 .uk-dark.dark\:hover\:uk-border-light-90:hover {
     border-color: var(--color-light-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-light-100:hover,
 .uk-dark.dark\:hover\:uk-border-light-100:hover {
     border-color: var(--color-light-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-muted-10,
@@ -21248,210 +21248,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-muted-10:hover {
     color: var(--color-muted-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-20:hover,
 .uk-dark.dark\:hover\:uk-text-muted-20:hover {
     color: var(--color-muted-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-30:hover,
 .uk-dark.dark\:hover\:uk-text-muted-30:hover {
     color: var(--color-muted-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-40:hover,
 .uk-dark.dark\:hover\:uk-text-muted-40:hover {
     color: var(--color-muted-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted:hover,
 .uk-dark.dark\:hover\:uk-text-muted:hover {
     color: var(--color-muted) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-60:hover,
 .uk-dark.dark\:hover\:uk-text-muted-60:hover {
     color: var(--color-muted-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-70:hover,
 .uk-dark.dark\:hover\:uk-text-muted-70:hover {
     color: var(--color-muted-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-80:hover,
 .uk-dark.dark\:hover\:uk-text-muted-80:hover {
     color: var(--color-muted-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-90:hover,
 .uk-dark.dark\:hover\:uk-text-muted-90:hover {
     color: var(--color-muted-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-muted-100:hover,
 .uk-dark.dark\:hover\:uk-text-muted-100:hover {
     color: var(--color-muted-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-10:hover,
 .uk-dark.dark\:hover\:uk-background-muted-10:hover {
     /* : var(--color-muted-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-20:hover,
 .uk-dark.dark\:hover\:uk-background-muted-20:hover {
     /* : var(--color-muted-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-30:hover,
 .uk-dark.dark\:hover\:uk-background-muted-30:hover {
     /* : var(--color-muted-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-40:hover,
 .uk-dark.dark\:hover\:uk-background-muted-40:hover {
     /* : var(--color-muted-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted:hover,
 .uk-dark.dark\:hover\:uk-background-muted:hover {
     /* : var(--color-muted) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-60:hover,
 .uk-dark.dark\:hover\:uk-background-muted-60:hover {
     /* : var(--color-muted-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-70:hover,
 .uk-dark.dark\:hover\:uk-background-muted-70:hover {
     /* : var(--color-muted-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-80:hover,
 .uk-dark.dark\:hover\:uk-background-muted-80:hover {
     /* : var(--color-muted-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-90:hover,
 .uk-dark.dark\:hover\:uk-background-muted-90:hover {
     /* : var(--color-muted-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-muted-100:hover,
 .uk-dark.dark\:hover\:uk-background-muted-100:hover {
     /* : var(--color-muted-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-10:hover,
 .uk-dark.dark\:hover\:uk-border-muted-10:hover {
     border-color: var(--color-muted-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-20:hover,
 .uk-dark.dark\:hover\:uk-border-muted-20:hover {
     border-color: var(--color-muted-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-30:hover,
 .uk-dark.dark\:hover\:uk-border-muted-30:hover {
     border-color: var(--color-muted-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-40:hover,
 .uk-dark.dark\:hover\:uk-border-muted-40:hover {
     border-color: var(--color-muted-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted:hover,
 .uk-dark.dark\:hover\:uk-border-muted:hover {
     border-color: var(--color-muted) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-60:hover,
 .uk-dark.dark\:hover\:uk-border-muted-60:hover {
     border-color: var(--color-muted-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-70:hover,
 .uk-dark.dark\:hover\:uk-border-muted-70:hover {
     border-color: var(--color-muted-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-80:hover,
 .uk-dark.dark\:hover\:uk-border-muted-80:hover {
     border-color: var(--color-muted-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-90:hover,
 .uk-dark.dark\:hover\:uk-border-muted-90:hover {
     border-color: var(--color-muted-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-muted-100:hover,
 .uk-dark.dark\:hover\:uk-border-muted-100:hover {
     border-color: var(--color-muted-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-tertiary-10,
@@ -21608,210 +21608,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-tertiary-10:hover {
     color: var(--color-tertiary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-20:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-20:hover {
     color: var(--color-tertiary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-30:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-30:hover {
     color: var(--color-tertiary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-40:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-40:hover {
     color: var(--color-tertiary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary:hover {
     color: var(--color-tertiary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-60:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-60:hover {
     color: var(--color-tertiary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-70:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-70:hover {
     color: var(--color-tertiary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-80:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-80:hover {
     color: var(--color-tertiary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-90:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-90:hover {
     color: var(--color-tertiary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-tertiary-100:hover,
 .uk-dark.dark\:hover\:uk-text-tertiary-100:hover {
     color: var(--color-tertiary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-10:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-10:hover {
     /* : var(--color-tertiary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-20:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-20:hover {
     /* : var(--color-tertiary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-30:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-30:hover {
     /* : var(--color-tertiary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-40:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-40:hover {
     /* : var(--color-tertiary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary:hover {
     /* : var(--color-tertiary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-60:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-60:hover {
     /* : var(--color-tertiary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-70:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-70:hover {
     /* : var(--color-tertiary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-80:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-80:hover {
     /* : var(--color-tertiary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-90:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-90:hover {
     /* : var(--color-tertiary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-tertiary-100:hover,
 .uk-dark.dark\:hover\:uk-background-tertiary-100:hover {
     /* : var(--color-tertiary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-10:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-10:hover {
     border-color: var(--color-tertiary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-20:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-20:hover {
     border-color: var(--color-tertiary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-30:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-30:hover {
     border-color: var(--color-tertiary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-40:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-40:hover {
     border-color: var(--color-tertiary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary:hover {
     border-color: var(--color-tertiary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-60:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-60:hover {
     border-color: var(--color-tertiary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-70:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-70:hover {
     border-color: var(--color-tertiary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-80:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-80:hover {
     border-color: var(--color-tertiary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-90:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-90:hover {
     border-color: var(--color-tertiary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-tertiary-100:hover,
 .uk-dark.dark\:hover\:uk-border-tertiary-100:hover {
     border-color: var(--color-tertiary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-quaternary-10,
@@ -21968,210 +21968,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-quaternary-10:hover {
     color: var(--color-quaternary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-20:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-20:hover {
     color: var(--color-quaternary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-30:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-30:hover {
     color: var(--color-quaternary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-40:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-40:hover {
     color: var(--color-quaternary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary:hover {
     color: var(--color-quaternary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-60:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-60:hover {
     color: var(--color-quaternary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-70:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-70:hover {
     color: var(--color-quaternary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-80:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-80:hover {
     color: var(--color-quaternary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-90:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-90:hover {
     color: var(--color-quaternary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-quaternary-100:hover,
 .uk-dark.dark\:hover\:uk-text-quaternary-100:hover {
     color: var(--color-quaternary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-10:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-10:hover {
     /* : var(--color-quaternary-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-20:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-20:hover {
     /* : var(--color-quaternary-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-30:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-30:hover {
     /* : var(--color-quaternary-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-40:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-40:hover {
     /* : var(--color-quaternary-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary:hover {
     /* : var(--color-quaternary) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-60:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-60:hover {
     /* : var(--color-quaternary-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-70:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-70:hover {
     /* : var(--color-quaternary-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-80:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-80:hover {
     /* : var(--color-quaternary-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-90:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-90:hover {
     /* : var(--color-quaternary-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-quaternary-100:hover,
 .uk-dark.dark\:hover\:uk-background-quaternary-100:hover {
     /* : var(--color-quaternary-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-10:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-10:hover {
     border-color: var(--color-quaternary-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-20:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-20:hover {
     border-color: var(--color-quaternary-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-30:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-30:hover {
     border-color: var(--color-quaternary-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-40:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-40:hover {
     border-color: var(--color-quaternary-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary:hover {
     border-color: var(--color-quaternary) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-60:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-60:hover {
     border-color: var(--color-quaternary-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-70:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-70:hover {
     border-color: var(--color-quaternary-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-80:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-80:hover {
     border-color: var(--color-quaternary-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-90:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-90:hover {
     border-color: var(--color-quaternary-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-quaternary-100:hover,
 .uk-dark.dark\:hover\:uk-border-quaternary-100:hover {
     border-color: var(--color-quaternary-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-default-10,
@@ -22328,210 +22328,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-default-10:hover {
     color: var(--color-default-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-20:hover,
 .uk-dark.dark\:hover\:uk-text-default-20:hover {
     color: var(--color-default-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-30:hover,
 .uk-dark.dark\:hover\:uk-text-default-30:hover {
     color: var(--color-default-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-40:hover,
 .uk-dark.dark\:hover\:uk-text-default-40:hover {
     color: var(--color-default-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default:hover,
 .uk-dark.dark\:hover\:uk-text-default:hover {
     color: var(--color-default) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-60:hover,
 .uk-dark.dark\:hover\:uk-text-default-60:hover {
     color: var(--color-default-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-70:hover,
 .uk-dark.dark\:hover\:uk-text-default-70:hover {
     color: var(--color-default-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-80:hover,
 .uk-dark.dark\:hover\:uk-text-default-80:hover {
     color: var(--color-default-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-90:hover,
 .uk-dark.dark\:hover\:uk-text-default-90:hover {
     color: var(--color-default-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-default-100:hover,
 .uk-dark.dark\:hover\:uk-text-default-100:hover {
     color: var(--color-default-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-10:hover,
 .uk-dark.dark\:hover\:uk-background-default-10:hover {
     /* : var(--color-default-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-20:hover,
 .uk-dark.dark\:hover\:uk-background-default-20:hover {
     /* : var(--color-default-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-30:hover,
 .uk-dark.dark\:hover\:uk-background-default-30:hover {
     /* : var(--color-default-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-40:hover,
 .uk-dark.dark\:hover\:uk-background-default-40:hover {
     /* : var(--color-default-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default:hover,
 .uk-dark.dark\:hover\:uk-background-default:hover {
     /* : var(--color-default) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-60:hover,
 .uk-dark.dark\:hover\:uk-background-default-60:hover {
     /* : var(--color-default-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-70:hover,
 .uk-dark.dark\:hover\:uk-background-default-70:hover {
     /* : var(--color-default-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-80:hover,
 .uk-dark.dark\:hover\:uk-background-default-80:hover {
     /* : var(--color-default-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-90:hover,
 .uk-dark.dark\:hover\:uk-background-default-90:hover {
     /* : var(--color-default-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-default-100:hover,
 .uk-dark.dark\:hover\:uk-background-default-100:hover {
     /* : var(--color-default-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-10:hover,
 .uk-dark.dark\:hover\:uk-border-default-10:hover {
     border-color: var(--color-default-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-20:hover,
 .uk-dark.dark\:hover\:uk-border-default-20:hover {
     border-color: var(--color-default-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-30:hover,
 .uk-dark.dark\:hover\:uk-border-default-30:hover {
     border-color: var(--color-default-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-40:hover,
 .uk-dark.dark\:hover\:uk-border-default-40:hover {
     border-color: var(--color-default-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default:hover,
 .uk-dark.dark\:hover\:uk-border-default:hover {
     border-color: var(--color-default) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-60:hover,
 .uk-dark.dark\:hover\:uk-border-default-60:hover {
     border-color: var(--color-default-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-70:hover,
 .uk-dark.dark\:hover\:uk-border-default-70:hover {
     border-color: var(--color-default-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-80:hover,
 .uk-dark.dark\:hover\:uk-border-default-80:hover {
     border-color: var(--color-default-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-90:hover,
 .uk-dark.dark\:hover\:uk-border-default-90:hover {
     border-color: var(--color-default-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-default-100:hover,
 .uk-dark.dark\:hover\:uk-border-default-100:hover {
     border-color: var(--color-default-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-darkgrey-10,
@@ -22688,210 +22688,210 @@ html.bp-xl .uk-button-2xsmall\@xl.uk-button-justify {
 .uk-dark.dark\:hover\:uk-text-darkgrey-10:hover {
     color: var(--color-darkgrey-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-20:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-20:hover {
     color: var(--color-darkgrey-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-30:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-30:hover {
     color: var(--color-darkgrey-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-40:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-40:hover {
     color: var(--color-darkgrey-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey:hover {
     color: var(--color-darkgrey) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-60:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-60:hover {
     color: var(--color-darkgrey-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-70:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-70:hover {
     color: var(--color-darkgrey-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-80:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-80:hover {
     color: var(--color-darkgrey-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-90:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-90:hover {
     color: var(--color-darkgrey-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-text-darkgrey-100:hover,
 .uk-dark.dark\:hover\:uk-text-darkgrey-100:hover {
     color: var(--color-darkgrey-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-10:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-10:hover {
     /* : var(--color-darkgrey-10) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-20:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-20:hover {
     /* : var(--color-darkgrey-20) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-30:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-30:hover {
     /* : var(--color-darkgrey-30) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-40:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-40:hover {
     /* : var(--color-darkgrey-40) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey:hover {
     /* : var(--color-darkgrey) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-60:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-60:hover {
     /* : var(--color-darkgrey-60) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-70:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-70:hover {
     /* : var(--color-darkgrey-70) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-80:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-80:hover {
     /* : var(--color-darkgrey-80) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-90:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-90:hover {
     /* : var(--color-darkgrey-90) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-background-darkgrey-100:hover,
 .uk-dark.dark\:hover\:uk-background-darkgrey-100:hover {
     /* : var(--color-darkgrey-100) !important; */
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-10:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-10:hover {
     border-color: var(--color-darkgrey-10) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-20:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-20:hover {
     border-color: var(--color-darkgrey-20) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-30:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-30:hover {
     border-color: var(--color-darkgrey-30) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-40:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-40:hover {
     border-color: var(--color-darkgrey-40) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey:hover {
     border-color: var(--color-darkgrey) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-60:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-60:hover {
     border-color: var(--color-darkgrey-60) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-70:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-70:hover {
     border-color: var(--color-darkgrey-70) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-80:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-80:hover {
     border-color: var(--color-darkgrey-80) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-90:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-90:hover {
     border-color: var(--color-darkgrey-90) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:hover\:uk-border-darkgrey-100:hover,
 .uk-dark.dark\:hover\:uk-border-darkgrey-100:hover {
     border-color: var(--color-darkgrey-100) !important;
     transition: .1s ease-in-out;
-    transition-property: color, 
+    transition-property: color,
 }
 
 .uk-dark .dark\:uk-text-white-5,
@@ -26179,7 +26179,8 @@ html.bp-xl .uk-height-4xlarge\@xl {
 
 .uk-background-gradient {
     /* : var(--gradient-first); */
-    background-image: linear-gradient(var(--gradient-angle), #ff3e00, #f4ff27);;
+    background-image: linear-gradient(var(--gradient-angle), #ff3e00, #f4ff27);
+    ;
 }
 
 .uk-background-primary {
@@ -29697,7 +29698,7 @@ input[data-uk-input-number]::-webkit-outer-spin-button {
     height: 1px;
     /* : var(--color-gray-100); */
     margin: 4px 0;
-    transition: transform .2s ease-in,  .2s ease-in
+    transition: transform .2s ease-in, .2s ease-in
 }
 
 .uni-menu-trigger[aria-expanded=true]::before {
@@ -30703,7 +30704,8 @@ option {
 .left-side {
     margin-top: -232px;
     padding: 20px;
-    background-color: #222; /* Card Background */
+    background-color: #222;
+    /* Card Background */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -30711,20 +30713,24 @@ option {
 /* WhatsApp Button Styling */
 .left-side .uk-button {
     margin-top: -1px !important;
-    font-size: 14px !important; /* button size decrease */
-    padding: 8px 16px !important; /* button padding decrease */
+    font-size: 14px !important;
+    /* button size decrease */
+    padding: 8px 16px !important;
+    /* button padding decrease */
 }
 
 /* Social Icons Styling */
 .social-icons {
     margin-top: 18px;
     display: flex;
-    gap: 15px; /* Space between icons */
+    gap: 15px;
+    /* Space between icons */
 }
 
 .social-icons i {
     color: #FFB700;
-    font-size: 32px; /* increse size social icons */
+    font-size: 32px;
+    /* increse size social icons */
 }
 
 @media (max-width: 768px) {
@@ -30732,11 +30738,21 @@ option {
         margin-top: 0px;
     }
 }
+
+@media (max-width: 768px) {
+    .uk-grid {
+        display: flex;
+        flex-direction: column-reverse;
+        /* Reverse the order for mobile view */
+    }
+}
+
 /* CONTACT LEFT SECTION CSS CODE ENDS HERE */
 
 /* TEXT SIZE IN MOBILE VIEW */
 .uk-h2 {
-    font-size: 40px; /* Default font size for larger screens */
+    font-size: 40px;
+    /* Default font size for larger screens */
 }
 
 /* Our Exclusive Talent CSS Code Starts Here */
@@ -30749,8 +30765,10 @@ option {
 /* Inner container that moves */
 .scroll-content {
     display: flex;
-    gap: 20px; /* Same gap between cards */
-    animation: scroll 20s linear infinite; /* Animation for smooth scrolling */
+    gap: 20px;
+    /* Same gap between cards */
+    animation: scroll 20s linear infinite;
+    /* Animation for smooth scrolling */
 }
 
 /* Individual Card */
@@ -30789,12 +30807,16 @@ option {
 /* CSS Animation for Scrolling */
 @keyframes scroll {
     from {
-        transform: translateX(0); /* Starting position */
+        transform: translateX(0);
+        /* Starting position */
     }
+
     to {
-        transform: translateX(-100%); /* End position */
+        transform: translateX(-100%);
+        /* End position */
     }
 }
+
 /* Our Exclusive Talent CSS Code Ends Here */
 
 
@@ -30832,6 +30854,7 @@ option {
         display: none;
     }
 }
+
 /* DOTTED LINE IMAGE CSS CODE STARTS HERE */
 
 /* BRAND CSS CODE STARTS HERE  */
@@ -30874,10 +30897,12 @@ option {
     from {
         transform: translateX(0);
     }
+
     to {
         transform: translateX(-50%);
     }
 }
+
 /* BRAND CSS CODE ENDS HERE  */
 
 /* VERTICLE VIDEO CSS CODE STARTS HERE */
@@ -30897,11 +30922,13 @@ option {
     height: 240px;
     object-fit: cover;
 }
+
 /* VERTICLE VIDEO CSS CODE ENDS HERE */
 
 /* FOOTER CSS CODE STARTS HERE */
 .custom-footer {
-    margin-top: -190px; /* Desktop view ke liye */
+    margin-top: -190px;
+    /* Desktop view ke liye */
 }
 
 /* Mobile view ke liye margin hata denge */
@@ -30910,9 +30937,10 @@ option {
         margin-top: 0px !important;
     }
 }
+
 /* FOOTER CSS CODE ENDS HERE */
 
-.brand-class{
+.brand-class {
     margin-top: 70px;
 }
 
@@ -30922,8 +30950,36 @@ option {
         font-size: 15px !important;
         padding: 5px 27px !important;
     }
-    .brand-class{
+
+    .brand-class {
         margin-top: -40px;
     }
-  }
+}
+
 /* MEDIA QUERY FOR CLIENT DEVICE CODE STARTS HERE */
+
+
+/* custom css  */
+.custom-talent-heading {
+    font-size: 52px !important;
+    /* Default size for desktop */
+}
+
+.custom-influencer-heading {
+    font-size: 52px !important;
+    /* Default size for desktop */
+}
+
+@media (max-width: 768px) {
+
+    /* Tablet & Mobile View */
+    .custom-talent-heading {
+        font-size: 32px !important;
+        /* Adjust size for mobile */
+    }
+
+    .custom-influencer-heading {
+        font-size: 30px !important;
+        /* Adjust size for mobile */
+    }
+}
