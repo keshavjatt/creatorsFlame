@@ -30738,15 +30738,17 @@ option {
         margin-top: 0px;
     }
 }
-
 @media (max-width: 768px) {
-    .uk-grid {
+    .contact-section-mobile-reverse {
         display: flex;
         flex-direction: column-reverse;
-        /* Reverse the order for mobile view */
+    }
+
+    .left-side-container,
+    .right-side-container {
+        width: 100%;
     }
 }
-
 /* CONTACT LEFT SECTION CSS CODE ENDS HERE */
 
 /* TEXT SIZE IN MOBILE VIEW */
@@ -30962,24 +30964,19 @@ option {
 /* custom css  */
 .custom-talent-heading {
     font-size: 52px !important;
-    /* Default size for desktop */
 }
 
 .custom-influencer-heading {
     font-size: 52px !important;
-    /* Default size for desktop */
 }
 
 @media (max-width: 768px) {
 
-    /* Tablet & Mobile View */
     .custom-talent-heading {
         font-size: 32px !important;
-        /* Adjust size for mobile */
     }
 
     .custom-influencer-heading {
         font-size: 30px !important;
-        /* Adjust size for mobile */
     }
 }
